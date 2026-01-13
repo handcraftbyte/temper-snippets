@@ -1,0 +1,18 @@
+---
+title: "Extract URLs from Text"
+description: "Extract all URLs from a text string"
+topic: "strings"
+parameters:
+  - name: "text"
+    type: "string"
+    default: "Check out https://example.com and http://test.org for more info"
+    description: "Text containing URLs"
+exampleOutputs:
+  - input: { "text": "Check out https://example.com and http://test.org" }
+    output: "[\"https://example.com\",\"http://test.org\"]"
+---
+
+```php
+preg_match_all('/https?:\/\/[^\s]+/', $text, $matches);
+return $matches[0];
+```

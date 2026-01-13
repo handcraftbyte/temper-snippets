@@ -1,0 +1,23 @@
+---
+title: "Format Percentage"
+description: "Format a decimal number as a percentage"
+topic: "math"
+parameters:
+  - name: "num"
+    type: "number"
+    default: 0.8567
+    description: "The decimal number (0-1)"
+  - name: "decimals"
+    type: "number"
+    default: 1
+    description: "Decimal places to show"
+exampleOutputs:
+  - input: { "num": 0.8567, "decimals": 1 }
+    output: "85.7%"
+  - input: { "num": 0.5, "decimals": 0 }
+    output: "50%"
+---
+
+```javascript
+new Intl.NumberFormat('en-US', { style: 'percent', minimumFractionDigits: decimals, maximumFractionDigits: decimals }).format(num);
+```

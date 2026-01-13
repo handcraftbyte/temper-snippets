@@ -1,0 +1,23 @@
+---
+title: "Counting Sort"
+description: "Sort array of integers using counting sort"
+topic: "sorting"
+parameters:
+  - name: "arr"
+    type: "array"
+    default: [4, 2, 2, 8, 3, 3, 1]
+    description: "Array of integers"
+exampleOutputs:
+  - input: { "arr": [4, 2, 2, 8, 3, 3, 1] }
+    output: "[1,2,2,3,3,4,8]"
+---
+
+```php
+$count = array_fill(0, max($arr) + 1, 0);
+foreach ($arr as $x) $count[$x]++;
+$result = [];
+foreach ($count as $i => $c) {
+    for ($j = 0; $j < $c; $j++) $result[] = $i;
+}
+$result;
+```

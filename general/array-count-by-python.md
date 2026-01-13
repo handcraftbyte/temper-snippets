@@ -1,0 +1,22 @@
+---
+title: "Count By Property"
+description: "Count occurrences grouped by a property"
+topic: "arrays"
+parameters:
+  - name: "arr"
+    type: "array"
+    default: [{"type": "a"}, {"type": "b"}, {"type": "a"}, {"type": "c"}, {"type": "a"}]
+    description: "Array of objects"
+  - name: "key"
+    type: "string"
+    default: "type"
+    description: "Property to count by"
+exampleOutputs:
+  - input: { "arr": [{"type": "a"}, {"type": "b"}, {"type": "a"}, {"type": "c"}, {"type": "a"}], "key": "type" }
+    output: "{'a': 3, 'b': 1, 'c': 1}"
+---
+
+```python
+from collections import Counter
+return dict(Counter(item[key] for item in arr))
+```

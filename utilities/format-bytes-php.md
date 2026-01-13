@@ -1,0 +1,24 @@
+---
+title: "Format Bytes (IEC)"
+description: "Format bytes using IEC units (KiB, MiB, GiB)"
+topic: "formatting"
+parameters:
+  - name: "bytes"
+    type: "number"
+    default: 1048576
+    description: "Size in bytes"
+exampleOutputs:
+  - input: { "bytes": 1048576 }
+    output: "1.00 MiB"
+---
+
+```php
+$units = ['B', 'KiB', 'MiB', 'GiB', 'TiB'];
+$size = $bytes;
+$i = 0;
+while ($size >= 1024 && $i < count($units) - 1) {
+    $size /= 1024;
+    $i++;
+}
+sprintf('%.2f %s', $size, $units[$i]);
+```

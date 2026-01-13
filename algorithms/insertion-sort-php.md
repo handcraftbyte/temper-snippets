@@ -1,0 +1,26 @@
+---
+title: "Insertion Sort"
+description: "Sort array using insertion sort algorithm"
+topic: "sorting"
+parameters:
+  - name: "arr"
+    type: "array"
+    default: [64, 34, 25, 12, 22, 11, 90]
+    description: "Array to sort"
+exampleOutputs:
+  - input: { "arr": [64, 34, 25, 12, 22, 11, 90] }
+    output: "[11,12,22,25,34,64,90]"
+---
+
+```php
+for ($i = 1; $i < count($arr); $i++) {
+    $key = $arr[$i];
+    $j = $i - 1;
+    while ($j >= 0 && $arr[$j] > $key) {
+        $arr[$j + 1] = $arr[$j];
+        $j--;
+    }
+    $arr[$j + 1] = $key;
+}
+$arr;
+```
