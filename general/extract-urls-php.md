@@ -1,6 +1,6 @@
 ---
 title: "Extract URLs from Text"
-description: "Extract all URLs from a text string"
+description: "Extract all URLs from a text string."
 topic: "strings"
 parameters:
   - name: "text"

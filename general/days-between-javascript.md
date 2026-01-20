@@ -1,6 +1,6 @@
 ---
 title: "Days Between Dates"
-description: "Calculate the number of days between two dates"
+description: "Calculate the number of days between two dates."
 topic: "dates"
 parameters:
   - name: "date1"

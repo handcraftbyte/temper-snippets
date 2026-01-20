@@ -1,6 +1,6 @@
 ---
 title: "Is Same Day"
-description: "Check if two dates are on the same day"
+description: "Check if two dates are on the same day."
 topic: "dates"
 parameters:
   - name: "date1"

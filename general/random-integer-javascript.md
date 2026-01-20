@@ -1,6 +1,6 @@
 ---
 title: "Random Integer"
-description: "Generate a random integer between min and max (inclusive)"
+description: "Generate a random integer within an inclusive range specified by minimum and maximum values."
 topic: "math"
 parameters:
   - name: "min"

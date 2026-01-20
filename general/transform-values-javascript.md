@@ -1,6 +1,6 @@
 ---
 title: "Transform Object Values"
-description: "Apply a transformation to all values in an object"
+description: "Apply a transformation to all values in an object."
 topic: "objects"
 parameters:
   - name: "obj"

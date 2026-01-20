@@ -1,6 +1,6 @@
 ---
 title: "Validate Date"
-description: "Check if a string is a valid date"
+description: "Check if a string is a valid date."
 topic: "validation"
 parameters:
   - name: "dateStr"

@@ -1,6 +1,6 @@
 ---
 title: "Count Syllables"
-description: "Estimate the number of syllables in a word"
+description: "Estimate the number of syllables in an English word."
 topic: "strings"
 parameters:
   - name: "word"

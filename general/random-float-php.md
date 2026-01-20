@@ -1,6 +1,6 @@
 ---
 title: "Random Float"
-description: "Generate a random float between min and max"
+description: "Generate a random floating-point number within a specified range with configurable decimal precision."
 topic: "math"
 parameters:
   - name: "min"

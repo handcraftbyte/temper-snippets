@@ -1,6 +1,6 @@
 ---
 title: "Fahrenheit to Celsius"
-description: "Convert temperature from Fahrenheit to Celsius"
+description: "Convert temperature from Fahrenheit to Celsius."
 topic: "math"
 relatedSlugs:
   - "fahrenheit-celsius-javascript"

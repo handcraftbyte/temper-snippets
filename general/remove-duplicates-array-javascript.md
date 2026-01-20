@@ -1,6 +1,6 @@
 ---
 title: "Remove Array Duplicates"
-description: "Remove duplicate values from an array"
+description: "Remove duplicate values from an array while preserving the original order of first occurrences."
 topic: "arrays"
 parameters:
   - name: "arr"

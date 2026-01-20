@@ -1,6 +1,6 @@
 ---
 title: "Get Day of Week"
-description: "Get the day of the week name from a date"
+description: "Get the day of the week name from a date."
 topic: "dates"
 parameters:
   - name: "dateStr"

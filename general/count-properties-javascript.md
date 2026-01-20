@@ -1,6 +1,6 @@
 ---
 title: "Count Object Properties"
-description: "Count the number of properties in an object"
+description: "Count the number of enumerable properties in an object."
 topic: "objects"
 parameters:
   - name: "obj"

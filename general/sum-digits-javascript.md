@@ -1,6 +1,6 @@
 ---
 title: "Sum of Digits"
-description: "Calculate the sum of all digits in a number"
+description: "Calculate the sum of all digits in a number."
 topic: "math"
 parameters:
   - name: "num"

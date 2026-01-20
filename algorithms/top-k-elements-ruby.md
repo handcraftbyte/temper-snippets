@@ -1,6 +1,6 @@
 ---
 title: "Top K Elements"
-description: "Find the k largest elements in an array"
+description: "Find the k largest elements in an array using sorting or heap-based approach."
 topic: "arrays"
 parameters:
   - name: "arr"

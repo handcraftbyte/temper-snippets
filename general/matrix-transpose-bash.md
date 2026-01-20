@@ -1,6 +1,6 @@
 ---
 title: "Matrix Transpose"
-description: "Transpose a 2D matrix (swap rows and columns)"
+description: "Transpose a 2D matrix (swap rows and columns)."
 topic: "arrays"
 parameters:
   - name: "matrix"

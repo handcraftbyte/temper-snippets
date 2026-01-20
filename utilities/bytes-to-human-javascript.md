@@ -1,12 +1,12 @@
 ---
 title: "Bytes to Human Readable"
-description: "Convert bytes to human readable format (KB, MB, GB, etc.)"
+description: "Convert bytes to human readable format (KB, MB, GB, etc.) for file sizes."
 topic: "math"
 parameters:
   - name: "bytes"
     type: "number"
     default: 1548576
-    description: "Number of bytes"
+    description: "Number of bytes."
 exampleOutputs:
   - input: { "bytes": 1548576 }
     output: "1.48 MB"

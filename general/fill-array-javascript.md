@@ -1,6 +1,6 @@
 ---
 title: "Fill Array"
-description: "Create an array filled with a specific value"
+description: "Create an array filled with a specific value."
 topic: "arrays"
 parameters:
   - name: "length"

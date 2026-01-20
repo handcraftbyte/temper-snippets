@@ -1,6 +1,6 @@
 ---
 title: "Calculate Median"
-description: "Calculate the median value of an array of numbers"
+description: "Calculate the median value of an array of numbers."
 topic: "math"
 parameters:
   - name: "arr"

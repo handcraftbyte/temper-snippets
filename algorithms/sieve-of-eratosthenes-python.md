@@ -1,6 +1,6 @@
 ---
 title: "Sieve of Eratosthenes"
-description: "Generate all primes up to n using the sieve algorithm"
+description: "Generate all prime numbers up to n using the Sieve of Eratosthenes algorithm."
 topic: "math"
 parameters:
   - name: "n"

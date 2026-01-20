@@ -1,6 +1,6 @@
 ---
 title: "Least Common Multiple"
-description: "Find the least common multiple (LCM) of two numbers"
+description: "Find the least common multiple (LCM) of two numbers using the GCD-based formula."
 topic: "math"
 parameters:
   - name: "a"

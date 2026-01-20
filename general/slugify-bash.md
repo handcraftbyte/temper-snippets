@@ -1,6 +1,6 @@
 ---
 title: "Slugify String"
-description: "Convert a string to a URL-friendly slug"
+description: "Convert a string to a URL-friendly slug."
 topic: "strings"
 relatedSlugs:
   - "slugify-javascript"

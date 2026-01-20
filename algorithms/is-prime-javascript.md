@@ -1,6 +1,6 @@
 ---
 title: "Is Prime"
-description: "Check if a number is a prime number"
+description: "Check if a number is a prime number by testing divisibility up to its square root."
 topic: "math"
 parameters:
   - name: "num"

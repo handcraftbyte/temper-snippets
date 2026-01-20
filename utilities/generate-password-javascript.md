@@ -1,16 +1,16 @@
 ---
 title: "Generate Password"
-description: "Generate a secure random password"
+description: "Generate a cryptographically secure random password with configurable options."
 topic: "security"
 parameters:
   - name: "length"
     type: "number"
     default: 16
-    description: "Password length"
+    description: "Password length."
   - name: "includeSymbols"
     type: "boolean"
     default: true
-    description: "Include special characters"
+    description: "Include special characters."
 exampleOutputs:
   - input: { "length": 16, "includeSymbols": true }
     output: "aB3$kL9@mN2#pQ5!"

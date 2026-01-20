@@ -1,6 +1,6 @@
 ---
 title: "PUT, PATCH, DELETE Requests"
-description: "Make REST API update and delete requests"
+description: "Make REST API update and delete requests using PUT, PATCH, and DELETE."
 topic: "http"
 parameters: []
 exampleOutputs:

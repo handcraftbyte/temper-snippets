@@ -1,12 +1,12 @@
 ---
 title: "Validate Password Strength"
-description: "Check password has uppercase, lowercase, number and symbol"
+description: "Check if a password has uppercase, lowercase, number and symbol."
 topic: "validation"
 parameters:
   - name: "password"
     type: "string"
     default: "MyP@ssw0rd!"
-    description: "Password to validate"
+    description: "Password to validate."
 exampleOutputs:
   - input: { "password": "MyP@ssw0rd!" }
     output: "true"

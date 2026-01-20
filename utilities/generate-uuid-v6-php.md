@@ -1,6 +1,6 @@
 ---
 title: "Generate UUID v6"
-description: "Generate a reordered time-based UUID v6 with improved sortability for databases"
+description: "Generate a reordered time-based UUID v6 with improved sortability for databases."
 topic: "generators"
 parameters: []
 exampleOutputs:

@@ -1,6 +1,6 @@
 ---
 title: "Pluck Property"
-description: "Extract a specific property from each object in an array"
+description: "Extract a specific property value from each object in an array."
 topic: "arrays"
 parameters:
   - name: "arr"

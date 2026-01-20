@@ -1,6 +1,6 @@
 ---
 title: "Array Intersection"
-description: "Find common elements between two arrays"
+description: "Find common elements that exist in both arrays."
 topic: "arrays"
 parameters:
   - name: "arr1"

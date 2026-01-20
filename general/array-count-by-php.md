@@ -1,6 +1,6 @@
 ---
 title: "Count By Property"
-description: "Count occurrences grouped by a property"
+description: "Count occurrences of array elements grouped by a specified property."
 topic: "arrays"
 parameters:
   - name: "arr"

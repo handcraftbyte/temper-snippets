@@ -1,6 +1,6 @@
 ---
 title: "Generate Random String"
-description: "Generate a cryptographically secure random string of specified length using the Web Crypto API"
+description: "Generate a cryptographically secure random string of specified length using the Web Crypto API."
 topic: "strings"
 tags: ["random", "crypto", "security", "alphanumeric"]
 relatedSlugs: []
@@ -8,7 +8,7 @@ parameters:
   - name: "length"
     type: "number"
     default: 16
-    description: "Length of the random string to generate"
+    description: "Length of the random string to generate."
 exampleOutputs:
   - input: { "length": 8 }
     output: "a7Bx9KmQ"

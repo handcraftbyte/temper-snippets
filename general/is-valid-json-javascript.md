@@ -1,6 +1,6 @@
 ---
 title: "Validate JSON"
-description: "Check if a string is valid JSON"
+description: "Check if a string is valid JSON."
 topic: "validation"
 parameters:
   - name: "str"

@@ -1,12 +1,12 @@
 ---
 title: "YAML to JSON"
-description: "Convert simple YAML to JSON format"
+description: "Convert simple YAML key-value pairs to JSON format."
 topic: "converters"
 parameters:
   - name: "yaml"
     type: "string"
     default: "name: John\nage: 30"
-    description: "YAML string to convert"
+    description: "YAML string to convert."
 exampleOutputs:
   - input: { "yaml": "name: John\nage: 30" }
     output: "{\"name\":\"John\",\"age\":30}"

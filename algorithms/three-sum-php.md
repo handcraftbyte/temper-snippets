@@ -1,6 +1,6 @@
 ---
 title: "Three Sum"
-description: "Find all unique triplets that sum to target"
+description: "Find all unique triplets in an array that sum to a target value."
 topic: "arrays"
 parameters:
   - name: "arr"

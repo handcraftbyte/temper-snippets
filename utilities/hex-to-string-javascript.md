@@ -1,12 +1,12 @@
 ---
 title: "Hex to String"
-description: "Convert a hexadecimal string to its text representation"
+description: "Convert a hexadecimal string to its text representation."
 topic: "encoding"
 parameters:
   - name: "hex"
     type: "string"
     default: "48656c6c6f"
-    description: "The hex string to convert"
+    description: "The hex string to convert."
 exampleOutputs:
   - input: { "hex": "48656c6c6f" }
     output: "Hello"

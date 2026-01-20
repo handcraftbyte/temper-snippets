@@ -1,12 +1,12 @@
 ---
 title: "Get Cookie"
-description: "Get a cookie value by name"
+description: "Get a cookie value by name from document.cookie."
 topic: "browser"
 parameters:
   - name: "name"
     type: "string"
     default: "myCookie"
-    description: "Cookie name"
+    description: "Cookie name."
 exampleOutputs:
   - input: { "name": "myCookie" }
     output: "cookieValue"

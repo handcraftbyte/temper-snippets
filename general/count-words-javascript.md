@@ -1,6 +1,6 @@
 ---
 title: "Count Words"
-description: "Count the number of words in a string"
+description: "Count the number of whitespace-separated words in a string."
 topic: "strings"
 parameters:
   - name: "str"

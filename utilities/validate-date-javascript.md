@@ -1,12 +1,12 @@
 ---
 title: "Validate Date String"
-description: "Check if a string is a valid date"
+description: "Check if a string is a valid date."
 topic: "validation"
 parameters:
   - name: "dateStr"
     type: "string"
     default: "2024-01-15"
-    description: "Date string to validate"
+    description: "Date string to validate."
 exampleOutputs:
   - input: { "dateStr": "2024-01-15" }
     output: "true"

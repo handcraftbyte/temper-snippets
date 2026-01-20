@@ -1,6 +1,6 @@
 ---
 title: "Check Balanced Brackets"
-description: "Check if brackets in a string are balanced"
+description: "Check if brackets in a string are properly balanced and nested using a stack-based approach."
 topic: "validation"
 parameters:
   - name: "str"

@@ -1,6 +1,6 @@
 ---
 title: "Once"
-description: "Create a function that can only be called once"
+description: "Create a function that can only be called once, returning the cached result for subsequent invocations."
 topic: "async"
 exampleOutputs:
   - input: {}

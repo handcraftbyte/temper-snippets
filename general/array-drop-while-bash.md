@@ -1,6 +1,6 @@
 ---
 title: "Drop While"
-description: "Remove elements from start while condition is true"
+description: "Remove elements from the start of an array while a condition is true."
 topic: "arrays"
 parameters:
   - name: "arr"

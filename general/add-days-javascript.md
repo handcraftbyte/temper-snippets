@@ -1,6 +1,6 @@
 ---
 title: "Add Days to Date"
-description: "Add a specified number of days to a date"
+description: "Add a specified number of days to a date and return the result in ISO format."
 topic: "dates"
 parameters:
   - name: "dateStr"

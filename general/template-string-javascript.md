@@ -1,6 +1,6 @@
 ---
 title: "Simple Template String"
-description: "Replace placeholders in a template string with values"
+description: "Replace placeholders in a template string with values."
 topic: "strings"
 parameters:
   - name: "template"

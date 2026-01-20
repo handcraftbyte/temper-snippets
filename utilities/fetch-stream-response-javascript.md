@@ -1,6 +1,6 @@
 ---
 title: "Stream Response Body"
-description: "Read response body as a stream for large files or real-time data"
+description: "Read response body as a stream for large files or real-time data."
 topic: "http"
 parameters: []
 exampleOutputs:

@@ -1,6 +1,6 @@
 ---
 title: "Merge Sort"
-description: "Sort array using merge sort algorithm"
+description: "Sort an array using the merge sort algorithm with O(n log n) time complexity."
 topic: "sorting"
 parameters:
   - name: "arr"

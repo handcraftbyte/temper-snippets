@@ -1,6 +1,6 @@
 ---
 title: "Timeout Promise"
-description: "Add a timeout to any promise"
+description: "Add a timeout to any promise, rejecting with an error if the operation takes too long."
 topic: "async"
 exampleOutputs:
   - input: {}

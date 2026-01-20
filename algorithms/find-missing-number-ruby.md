@@ -1,6 +1,6 @@
 ---
 title: "Find Missing Number"
-description: "Find missing number in sequence from 1 to n"
+description: "Find the missing number in a sequence from 1 to n using mathematical sum formula."
 topic: "arrays"
 parameters:
   - name: "arr"

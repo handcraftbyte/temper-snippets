@@ -1,6 +1,6 @@
 ---
 title: "Promise.any"
-description: "Return first successful promise result"
+description: "Return the result of the first promise that resolves successfully."
 topic: "async"
 exampleOutputs:
   - input: {}

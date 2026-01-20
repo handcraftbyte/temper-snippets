@@ -1,16 +1,16 @@
 ---
 title: "Pluralize Word"
-description: "Add plural suffix based on count"
+description: "Add a plural suffix to a word based on the given count."
 topic: "formatting"
 parameters:
   - name: "word"
     type: "string"
     default: "item"
-    description: "Word to pluralize"
+    description: "Word to pluralize."
   - name: "count"
     type: "number"
     default: 5
-    description: "Count for pluralization"
+    description: "Count for pluralization."
 exampleOutputs:
   - input: { "word": "item", "count": 5 }
     output: "5 items"

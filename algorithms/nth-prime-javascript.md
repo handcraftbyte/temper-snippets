@@ -1,6 +1,6 @@
 ---
 title: "Nth Prime"
-description: "Find the nth prime number"
+description: "Find the nth prime number using primality testing."
 topic: "math"
 parameters:
   - name: "n"

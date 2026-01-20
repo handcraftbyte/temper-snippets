@@ -1,6 +1,6 @@
 ---
 title: "Nth Largest Element"
-description: "Find the nth largest element in an array"
+description: "Find the nth largest element in an array by sorting in descending order."
 topic: "arrays"
 parameters:
   - name: "arr"

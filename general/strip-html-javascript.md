@@ -1,6 +1,6 @@
 ---
 title: "Strip HTML Tags"
-description: "Remove all HTML tags from a string"
+description: "Remove all HTML tags from a string."
 topic: "strings"
 parameters:
   - name: "str"

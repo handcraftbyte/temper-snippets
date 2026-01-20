@@ -1,6 +1,6 @@
 ---
 title: "Generate UUID v4"
-description: "Generate a random UUID v4 (Universally Unique Identifier)"
+description: "Generate a random UUID v4 (Universally Unique Identifier)."
 topic: "generators"
 parameters: []
 exampleOutputs:

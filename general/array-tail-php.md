@@ -1,6 +1,6 @@
 ---
 title: "Array Tail"
-description: "Get last n elements of an array"
+description: "Get the last n elements of an array."
 topic: "arrays"
 parameters:
   - name: "arr"

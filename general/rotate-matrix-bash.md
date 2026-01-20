@@ -1,6 +1,6 @@
 ---
 title: "Rotate Matrix 90°"
-description: "Rotate a 2D matrix 90 degrees clockwise"
+description: "Rotate a 2D square matrix 90 degrees clockwise by transposing and reversing rows."
 topic: "arrays"
 parameters:
   - name: "matrix"

@@ -1,12 +1,12 @@
 ---
 title: "Get Scroll Position"
-description: "Get current scroll position of the page"
+description: "Get current scroll position of the page."
 topic: "browser"
 parameters:
   - name: "example"
     type: "string"
     default: "demo"
-    description: "Example parameter"
+    description: "Example parameter."
 exampleOutputs:
   - input: { "example": "demo" }
     output: "{\"x\":0,\"y\":0}"

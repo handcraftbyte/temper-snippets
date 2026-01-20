@@ -1,6 +1,6 @@
 ---
 title: "Maximum Subarray Sum"
-description: "Find the maximum sum of a contiguous subarray (Kadane's algorithm)"
+description: "Find the maximum sum of a contiguous subarray using Kadane's algorithm."
 topic: "arrays"
 parameters:
   - name: "arr"

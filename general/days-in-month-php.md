@@ -1,6 +1,6 @@
 ---
 title: "Days in Month"
-description: "Get the number of days in a specific month"
+description: "Get the number of days in a specific month."
 topic: "dates"
 parameters:
   - name: "year"

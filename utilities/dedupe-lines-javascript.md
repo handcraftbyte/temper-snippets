@@ -1,16 +1,16 @@
 ---
 title: "Dedupe Lines"
-description: "Remove duplicate lines from text"
+description: "Remove duplicate lines from text while preserving the original order."
 topic: "strings"
 parameters:
   - name: "text"
     type: "string"
     default: "apple\nbanana\napple\ncherry\nbanana"
-    description: "Multi-line text with potential duplicates"
+    description: "Multi-line text with potential duplicates."
   - name: "caseSensitive"
     type: "boolean"
     default: true
-    description: "Treat lines with different case as different"
+    description: "Treat lines with different case as different."
 exampleOutputs:
   - input: { "text": "apple\nbanana\napple\ncherry\nbanana", "caseSensitive": true }
     output: "apple\nbanana\ncherry"

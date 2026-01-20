@@ -1,6 +1,6 @@
 ---
 title: "Validate Regex Pattern"
-description: "Check if a string is a valid regex pattern"
+description: "Check if a string is a valid regex pattern."
 topic: "validation"
 parameters:
   - name: "pattern"

@@ -12,7 +12,7 @@ parameters:
   - name: "csv"
     type: "string"
     default: 'name,description,price\n"Widget","A small, handy tool",9.99\n"Gadget","Say ""hello""",19.99'
-    description: "CSV content"
+    description: "CSV content."
 exampleOutputs:
   - input: { "csv": "a,\"b,c\",d" }
     output: '[["a","b,c","d"]]'

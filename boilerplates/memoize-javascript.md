@@ -1,6 +1,6 @@
 ---
 title: "Memoize"
-description: "Cache function results to avoid redundant calculations"
+description: "Cache function results to avoid redundant calculations and improve performance for expensive operations."
 topic: "async"
 exampleOutputs:
   - input: {}

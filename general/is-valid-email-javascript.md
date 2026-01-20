@@ -1,6 +1,6 @@
 ---
 title: "Validate Email"
-description: "Check if a string is a valid email address"
+description: "Check if a string is a valid email address."
 topic: "validation"
 parameters:
   - name: "email"

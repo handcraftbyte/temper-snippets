@@ -1,6 +1,6 @@
 ---
 title: "Flatten Object"
-description: "Flatten a nested object to a single level with dot notation keys"
+description: "Flatten a nested object to a single level with dot notation keys."
 topic: "objects"
 parameters:
   - name: "obj"

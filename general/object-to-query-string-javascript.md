@@ -1,6 +1,6 @@
 ---
 title: "Object to Query String"
-description: "Convert an object to a URL query string"
+description: "Convert an object to a URL-encoded query string for use in URLs."
 topic: "objects"
 parameters:
   - name: "obj"

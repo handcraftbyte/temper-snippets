@@ -1,12 +1,12 @@
 ---
 title: "Decimal to Binary"
-description: "Convert a decimal number to binary"
+description: "Convert a decimal number to its binary string representation."
 topic: "math"
 parameters:
   - name: "num"
     type: "number"
     default: 42
-    description: "Decimal number to convert"
+    description: "Decimal number to convert."
 exampleOutputs:
   - input: { "num": 42 }
     output: "101010"

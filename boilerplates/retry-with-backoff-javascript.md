@@ -1,6 +1,6 @@
 ---
 title: "Retry with Backoff"
-description: "Retry an async function with exponential backoff"
+description: "Retry an async function with exponential backoff to handle transient failures gracefully."
 topic: "async"
 exampleOutputs:
   - input: {}

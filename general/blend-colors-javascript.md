@@ -1,6 +1,6 @@
 ---
 title: "Blend Colors"
-description: "Blend two hex colors together"
+description: "Blend two hex colors together with a customizable ratio."
 topic: "colors"
 parameters:
   - name: "color1"

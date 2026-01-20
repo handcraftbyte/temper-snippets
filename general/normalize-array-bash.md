@@ -1,6 +1,6 @@
 ---
 title: "Normalize Array"
-description: "Normalize array values to 0-1 range"
+description: "Normalize array values to a 0-1 range using min-max scaling."
 topic: "math"
 parameters:
   - name: "arr"

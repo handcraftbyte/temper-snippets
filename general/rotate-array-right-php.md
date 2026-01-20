@@ -1,6 +1,6 @@
 ---
 title: "Rotate Array Right"
-description: "Rotate array elements to the right by n positions"
+description: "Rotate array elements to the right by a specified number of positions, wrapping elements around."
 topic: "arrays"
 parameters:
   - name: "arr"

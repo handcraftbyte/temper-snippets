@@ -1,6 +1,6 @@
 ---
 title: "Standard Deviation"
-description: "Calculate the standard deviation of an array of numbers"
+description: "Calculate the standard deviation of an array of numbers."
 topic: "math"
 parameters:
   - name: "arr"

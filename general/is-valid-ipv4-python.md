@@ -1,6 +1,6 @@
 ---
 title: "Validate IPv4 Address"
-description: "Check if a string is a valid IPv4 address"
+description: "Check if a string is a valid IPv4 address."
 topic: "validation"
 parameters:
   - name: "ip"

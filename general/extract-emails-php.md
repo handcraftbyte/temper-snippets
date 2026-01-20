@@ -1,6 +1,6 @@
 ---
 title: "Extract Emails from Text"
-description: "Extract all email addresses from a text string"
+description: "Extract all email addresses from a text string."
 topic: "strings"
 parameters:
   - name: "text"

@@ -1,6 +1,6 @@
 ---
 title: "Two Sum"
-description: "Find indices of two numbers that add up to target"
+description: "Find indices of two numbers in an array that add up to a target value using a hash map for O(n) time complexity."
 topic: "arrays"
 parameters:
   - name: "arr"

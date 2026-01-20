@@ -1,6 +1,6 @@
 ---
 title: "Binary Search"
-description: "Find element index in sorted array using binary search"
+description: "Find the index of an element in a sorted array using binary search with O(log n) time complexity."
 topic: "searching"
 parameters:
   - name: "arr"

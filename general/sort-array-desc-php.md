@@ -1,6 +1,6 @@
 ---
 title: "Sort Array Descending"
-description: "Sort an array of numbers in descending order"
+description: "Sort an array of numbers in descending order."
 topic: "arrays"
 relatedSlugs:
   - "sort-array-desc-javascript"

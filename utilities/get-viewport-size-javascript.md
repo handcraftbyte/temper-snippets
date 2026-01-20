@@ -1,12 +1,12 @@
 ---
 title: "Get Viewport Size"
-description: "Get browser viewport dimensions"
+description: "Get browser viewport dimensions."
 topic: "browser"
 parameters:
   - name: "example"
     type: "string"
     default: "demo"
-    description: "Example parameter"
+    description: "Example parameter."
 exampleOutputs:
   - input: { "example": "demo" }
     output: "{\"width\":1920,\"height\":1080}"

@@ -1,6 +1,6 @@
 ---
 title: "Validate Hex Color"
-description: "Check if a string is a valid hex color code"
+description: "Check if a string is a valid hex color code."
 topic: "validation"
 parameters:
   - name: "color"

@@ -1,6 +1,6 @@
 ---
 title: "Unflatten Object"
-description: "Convert a flat object with dot notation keys to a nested object"
+description: "Convert a flat object with dot notation keys to a nested object."
 topic: "objects"
 parameters:
   - name: "obj"

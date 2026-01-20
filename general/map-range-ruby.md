@@ -1,6 +1,6 @@
 ---
 title: "Map Value to Range"
-description: "Map a value from one range to another"
+description: "Map a value from one range to another."
 topic: "math"
 parameters:
   - name: "value"

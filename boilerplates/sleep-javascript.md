@@ -1,6 +1,6 @@
 ---
 title: "Sleep"
-description: "Pause execution for specified milliseconds"
+description: "Pause execution for a specified number of milliseconds using a promise-based delay."
 topic: "async"
 exampleOutputs:
   - input: {}

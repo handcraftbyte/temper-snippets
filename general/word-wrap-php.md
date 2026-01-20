@@ -1,6 +1,6 @@
 ---
 title: "Word Wrap"
-description: "Wrap text to specified line width"
+description: "Wrap text to specified line width."
 topic: "strings"
 parameters:
   - name: "text"

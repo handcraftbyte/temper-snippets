@@ -1,12 +1,12 @@
 ---
 title: "Binary to String"
-description: "Convert a binary string to text"
+description: "Convert a binary string representation to human-readable text."
 topic: "encoding"
 parameters:
   - name: "binary"
     type: "string"
     default: "01001000 01101001"
-    description: "The binary string to convert (space-separated bytes)"
+    description: "The binary string to convert (space-separated bytes)."
 exampleOutputs:
   - input: { "binary": "01001000 01101001" }
     output: "Hi"

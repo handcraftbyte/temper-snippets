@@ -1,6 +1,6 @@
 ---
 title: "Convert to Snake Case"
-description: "Convert a string to snake_case format"
+description: "Convert a string to snake_case format."
 topic: "strings"
 parameters:
   - name: "str"

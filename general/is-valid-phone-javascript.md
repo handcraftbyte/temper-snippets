@@ -1,6 +1,6 @@
 ---
 title: "Validate Phone Number"
-description: "Check if a string is a valid phone number (basic international format)"
+description: "Check if a string is a valid phone number (basic international format)."
 topic: "validation"
 parameters:
   - name: "phone"

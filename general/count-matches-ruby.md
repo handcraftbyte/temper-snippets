@@ -1,6 +1,6 @@
 ---
 title: "Count Regex Matches"
-description: "Count the number of regex matches in a string"
+description: "Count how many times a regex pattern matches in a string."
 topic: "strings"
 parameters:
   - name: "str"

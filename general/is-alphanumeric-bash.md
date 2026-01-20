@@ -1,6 +1,6 @@
 ---
 title: "Is Alphanumeric"
-description: "Check if a string contains only letters and numbers"
+description: "Check if a string contains only letters and numbers."
 topic: "validation"
 relatedSlugs:
   - "is-alphanumeric-javascript"

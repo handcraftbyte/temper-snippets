@@ -1,12 +1,12 @@
 ---
 title: "Hex to RGB"
-description: "Convert a hex color code to RGB values"
+description: "Convert a hex color code to RGB values."
 topic: "colors"
 parameters:
   - name: "hex"
     type: "string"
     default: "#ff5733"
-    description: "The hex color code"
+    description: "The hex color code."
 exampleOutputs:
   - input: { "hex": "#ff5733" }
     output: "{\"r\":255,\"g\":87,\"b\":51}"

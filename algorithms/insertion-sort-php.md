@@ -1,6 +1,6 @@
 ---
 title: "Insertion Sort"
-description: "Sort array using insertion sort algorithm"
+description: "Sort an array using the insertion sort algorithm by building a sorted portion one element at a time."
 topic: "sorting"
 parameters:
   - name: "arr"

@@ -1,6 +1,6 @@
 ---
 title: "Mask String"
-description: "Mask a string showing only the last few characters (useful for credit cards, SSN)"
+description: "Mask a string showing only the last few characters, useful for credit cards or SSNs."
 topic: "strings"
 relatedSlugs:
   - "mask-string-javascript"
@@ -11,15 +11,15 @@ parameters:
   - name: "str"
     type: "string"
     default: "4532015112830366"
-    description: "The string to mask"
+    description: "The string to mask."
   - name: "visibleChars"
     type: "number"
     default: 4
-    description: "Number of characters to show at the end"
+    description: "Number of characters to show at the end."
   - name: "maskChar"
     type: "string"
     default: "*"
-    description: "Character to use for masking"
+    description: "Character to use for masking."
 exampleOutputs:
   - input: { "str": "4532015112830366", "visibleChars": 4, "maskChar": "*" }
     output: "************0366"

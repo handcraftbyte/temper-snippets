@@ -1,16 +1,16 @@
 ---
 title: "Format List"
-description: "Format an array as a human-readable list with 'and' or 'or'"
+description: "Format an array as a human-readable list with 'and' or 'or' conjunctions."
 topic: "formatting"
 parameters:
   - name: "arr"
     type: "array"
     default: ["apple", "banana", "cherry"]
-    description: "Array of items"
+    description: "Array of items."
   - name: "type"
     type: "string"
     default: "conjunction"
-    description: "Type: conjunction (and) or disjunction (or)"
+    description: "Type: conjunction (and) or disjunction (or)."
 exampleOutputs:
   - input: { "arr": ["apple", "banana", "cherry"], "type": "conjunction" }
     output: "apple, banana, and cherry"

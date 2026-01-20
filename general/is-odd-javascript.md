@@ -1,6 +1,6 @@
 ---
 title: "Is Odd"
-description: "Check if a number is odd"
+description: "Check if a number is odd."
 topic: "math"
 parameters:
   - name: "num"

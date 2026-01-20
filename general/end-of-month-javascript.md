@@ -1,6 +1,6 @@
 ---
 title: "End of Month"
-description: "Get the last day of the month for a date"
+description: "Get the last day of the month for a date."
 topic: "dates"
 parameters:
   - name: "dateStr"

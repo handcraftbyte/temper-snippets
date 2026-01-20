@@ -1,6 +1,6 @@
 ---
 title: "Levenshtein Distance"
-description: "Calculate the edit distance between two strings"
+description: "Calculate the Levenshtein edit distance between two strings using dynamic programming."
 topic: "strings"
 parameters:
   - name: "a"

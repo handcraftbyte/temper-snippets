@@ -1,6 +1,6 @@
 ---
 title: "Rotate Array Left"
-description: "Rotate array elements to the left by n positions"
+description: "Rotate array elements to the left by a specified number of positions, wrapping elements around."
 topic: "arrays"
 parameters:
   - name: "arr"

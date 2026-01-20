@@ -1,6 +1,6 @@
 ---
 title: "Is Array"
-description: "Check if a value is an array"
+description: "Check if a value is an array."
 topic: "validation"
 parameters:
   - name: "value"

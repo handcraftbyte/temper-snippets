@@ -1,12 +1,12 @@
 ---
 title: "Validate Username"
-description: "Check if username is alphanumeric with underscores (3-16 chars)"
+description: "Check if a username is alphanumeric with underscores (3-16 characters)."
 topic: "validation"
 parameters:
   - name: "username"
     type: "string"
     default: "john_doe123"
-    description: "Username to validate"
+    description: "Username to validate."
 exampleOutputs:
   - input: { "username": "john_doe123" }
     output: "true"

@@ -1,12 +1,12 @@
 ---
 title: "Validate Cron Expression"
-description: "Check if a cron expression has valid format (5 fields)"
+description: "Check if a cron expression has valid format with 5 fields."
 topic: "system"
 parameters:
   - name: "expr"
     type: "string"
     default: "*/15 * * * *"
-    description: "Cron expression to validate"
+    description: "Cron expression to validate."
 exampleOutputs:
   - input: { "expr": "0 9 * * 1-5" }
     output: "valid"

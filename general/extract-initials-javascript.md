@@ -1,6 +1,6 @@
 ---
 title: "Extract Initials"
-description: "Extract initials from a name"
+description: "Extract initials from a name."
 topic: "strings"
 parameters:
   - name: "name"

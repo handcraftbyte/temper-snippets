@@ -1,6 +1,6 @@
 ---
 title: "String Similarity"
-description: "Calculate similarity percentage between two strings"
+description: "Calculate the similarity percentage between two strings based on edit distance."
 topic: "strings"
 parameters:
   - name: "a"

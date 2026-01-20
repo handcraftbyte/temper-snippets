@@ -1,6 +1,6 @@
 ---
 title: "Max Value in Array"
-description: "Find the maximum value in an array"
+description: "Find the maximum value in an array."
 topic: "arrays"
 relatedSlugs:
   - "max-array-javascript"

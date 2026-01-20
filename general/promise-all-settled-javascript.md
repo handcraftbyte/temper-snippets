@@ -1,6 +1,6 @@
 ---
 title: "Promise.allSettled"
-description: "Wait for all promises to settle (resolve or reject)"
+description: "Wait for all promises to settle, whether they resolve or reject."
 topic: "async"
 exampleOutputs:
   - input: {}

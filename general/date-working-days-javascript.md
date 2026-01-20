@@ -1,6 +1,6 @@
 ---
 title: "Count Working Days"
-description: "Count working days (excluding weekends) between dates"
+description: "Count working days (excluding weekends) between dates."
 topic: "dates"
 parameters:
   - name: "start"

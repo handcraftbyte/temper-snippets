@@ -1,12 +1,12 @@
 ---
 title: "FNV-1a Hash"
-description: "Fast non-cryptographic hash function"
+description: "Fast non-cryptographic hash function."
 topic: "security"
 parameters:
   - name: "str"
     type: "string"
     default: "Hello, World!"
-    description: "String to hash"
+    description: "String to hash."
 exampleOutputs:
   - input: { "str": "Hello, World!" }
     output: "3628585307"

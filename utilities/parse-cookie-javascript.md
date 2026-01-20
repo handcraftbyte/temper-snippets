@@ -1,12 +1,12 @@
 ---
 title: "Parse Cookie String"
-description: "Parse cookie string into an object"
+description: "Parse a cookie string into a JavaScript object with key-value pairs."
 topic: "objects"
 parameters:
   - name: "cookieStr"
     type: "string"
     default: "name=John; age=30; theme=dark"
-    description: "Cookie string"
+    description: "Cookie string."
 exampleOutputs:
   - input: { "cookieStr": "name=John; age=30; theme=dark" }
     output: "{\"name\":\"John\",\"age\":\"30\",\"theme\":\"dark\"}"

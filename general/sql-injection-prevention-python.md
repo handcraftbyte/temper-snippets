@@ -1,6 +1,6 @@
 ---
 title: "SQL Injection Prevention"
-description: "Use parameterized queries to prevent SQL injection attacks"
+description: "Use parameterized queries to prevent SQL injection attacks."
 topic: "security"
 parameters:
   - name: "username"

@@ -1,6 +1,6 @@
 ---
 title: "Match Whole Word"
-description: "Match a whole word only (with word boundaries)"
+description: "Match a whole word only (with word boundaries)."
 topic: "strings"
 parameters:
   - name: "str"

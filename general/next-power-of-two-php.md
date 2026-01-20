@@ -1,6 +1,6 @@
 ---
 title: "Next Power of Two"
-description: "Find the next power of two greater than or equal to n"
+description: "Find the next power of two greater than or equal to a given number."
 topic: "math"
 parameters:
   - name: "n"

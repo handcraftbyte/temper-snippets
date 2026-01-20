@@ -1,6 +1,6 @@
 ---
 title: "Bearer Token Authentication"
-description: "Make authenticated request using Bearer token (JWT/OAuth)"
+description: "Make an authenticated HTTP request using Bearer token for JWT or OAuth."
 topic: "http"
 parameters: []
 exampleOutputs:

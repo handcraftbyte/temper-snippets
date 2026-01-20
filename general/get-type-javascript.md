@@ -1,6 +1,6 @@
 ---
 title: "Get Type"
-description: "Get the precise type of any value"
+description: "Get the precise type of any value."
 topic: "validation"
 parameters:
   - name: "value"

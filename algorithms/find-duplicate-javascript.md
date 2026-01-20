@@ -1,6 +1,6 @@
 ---
 title: "Find Duplicate"
-description: "Find the first duplicate element in an array"
+description: "Find the first duplicate element that appears in an array using a hash set for efficient lookup."
 topic: "arrays"
 parameters:
   - name: "arr"

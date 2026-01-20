@@ -1,6 +1,6 @@
 ---
 title: "Fetch JSON from API"
-description: "Make a GET request and parse JSON response"
+description: "Make a GET request and parse the JSON response."
 topic: "http"
 parameters: []
 exampleOutputs:

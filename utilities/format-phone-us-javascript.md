@@ -1,12 +1,12 @@
 ---
 title: "Format US Phone Number"
-description: "Format a phone number as (XXX) XXX-XXXX"
+description: "Format a 10-digit phone number as (XXX) XXX-XXXX."
 topic: "formatting"
 parameters:
   - name: "phone"
     type: "string"
     default: "5551234567"
-    description: "10-digit phone number"
+    description: "10-digit phone number."
 exampleOutputs:
   - input: { "phone": "5551234567" }
     output: "(555) 123-4567"

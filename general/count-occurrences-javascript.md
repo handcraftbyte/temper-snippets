@@ -1,6 +1,6 @@
 ---
 title: "Count Substring Occurrences"
-description: "Count how many times a substring appears in a string"
+description: "Count how many times a substring appears in a string (non-overlapping)."
 topic: "strings"
 parameters:
   - name: "str"

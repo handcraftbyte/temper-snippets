@@ -1,6 +1,6 @@
 ---
 title: "Sample Array"
-description: "Get N random items from an array"
+description: "Get N random items from an array without replacement."
 topic: "arrays"
 parameters:
   - name: "arr"

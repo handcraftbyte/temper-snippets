@@ -1,12 +1,12 @@
 ---
 title: "String to Binary"
-description: "Convert a string to its binary representation"
+description: "Convert a string to its binary representation."
 topic: "encoding"
 parameters:
   - name: "str"
     type: "string"
     default: "Hi"
-    description: "The string to convert to binary"
+    description: "The string to convert to binary."
 exampleOutputs:
   - input: { "str": "Hi" }
     output: "01001000 01101001"

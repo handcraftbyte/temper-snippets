@@ -1,6 +1,6 @@
 ---
 title: "Spiral Matrix"
-description: "Traverse a matrix in spiral order"
+description: "Traverse a 2D matrix in spiral order starting from the top-left corner."
 topic: "arrays"
 parameters:
   - name: "matrix"

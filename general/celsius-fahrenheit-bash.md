@@ -1,6 +1,6 @@
 ---
 title: "Celsius to Fahrenheit"
-description: "Convert temperature from Celsius to Fahrenheit"
+description: "Convert temperature from Celsius to Fahrenheit using the standard formula."
 topic: "math"
 relatedSlugs:
   - "celsius-fahrenheit-javascript"

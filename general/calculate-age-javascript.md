@@ -1,6 +1,6 @@
 ---
 title: "Calculate Age"
-description: "Calculate age in years from a birth date"
+description: "Calculate age in years from a birth date, accounting for month and day."
 topic: "dates"
 parameters:
   - name: "birthDate"

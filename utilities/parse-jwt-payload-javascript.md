@@ -12,7 +12,7 @@ parameters:
   - name: "token"
     type: "string"
     default: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
-    description: "JWT token string"
+    description: "JWT token string."
 exampleOutputs:
   - input: { "token": "eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyIjoiYWxpY2UifQ.xxx" }
     output: '{"user":"alice"}'

@@ -1,6 +1,6 @@
 ---
 title: "Shuffle Array"
-description: "Randomly shuffle the elements of an array (Fisher-Yates algorithm)"
+description: "Randomly shuffle the elements of an array (Fisher-Yates algorithm)."
 topic: "arrays"
 relatedSlugs:
   - "shuffle-array-javascript"

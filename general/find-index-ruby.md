@@ -1,6 +1,6 @@
 ---
 title: "Find Index"
-description: "Find the index of the first element matching a condition"
+description: "Find the index of the first element matching a condition."
 topic: "arrays"
 parameters:
   - name: "arr"

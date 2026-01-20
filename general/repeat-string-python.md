@@ -1,6 +1,6 @@
 ---
 title: "Repeat String"
-description: "Repeat a string a specified number of times"
+description: "Repeat a string a specified number of times to create a new concatenated string."
 topic: "strings"
 relatedSlugs:
   - "repeat-string-javascript"

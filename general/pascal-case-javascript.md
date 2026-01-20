@@ -1,6 +1,6 @@
 ---
 title: "Convert to Pascal Case"
-description: "Convert a string to PascalCase format"
+description: "Convert a string to PascalCase format, capitalizing each word and removing separators."
 topic: "strings"
 parameters:
   - name: "str"

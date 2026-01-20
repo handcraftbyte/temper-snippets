@@ -1,12 +1,12 @@
 ---
 title: "Get Domain from URL"
-description: "Extract the domain name from a URL"
+description: "Extract the domain name (hostname) from a URL."
 topic: "http"
 parameters:
   - name: "url"
     type: "string"
     default: "https://www.example.com/path/to/page"
-    description: "URL to extract domain from"
+    description: "URL to extract domain from."
 exampleOutputs:
   - input: { "url": "https://www.example.com/path/to/page" }
     output: "www.example.com"

@@ -1,6 +1,6 @@
 ---
 title: "Longest Common Substring"
-description: "Find the longest common substring between two strings"
+description: "Find the longest contiguous substring that appears in both strings using an iterative approach."
 topic: "strings"
 parameters:
   - name: "a"

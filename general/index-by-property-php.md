@@ -1,6 +1,6 @@
 ---
 title: "Index by Property"
-description: "Convert an array of objects to an object indexed by a property"
+description: "Convert an array of objects to an object indexed by a property."
 topic: "arrays"
 parameters:
   - name: "arr"

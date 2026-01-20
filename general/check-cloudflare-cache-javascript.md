@@ -1,6 +1,6 @@
 ---
 title: "Check Cloudflare Cache Status"
-description: "Check if a resource is served from Cloudflare's cache by inspecting the CF-Cache-Status header"
+description: "Check if a resource is served from Cloudflare's cache by inspecting the CF-Cache-Status header."
 topic: "http"
 parameters:
   - name: url

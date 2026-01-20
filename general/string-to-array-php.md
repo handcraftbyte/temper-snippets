@@ -1,6 +1,6 @@
 ---
 title: "String to Character Array"
-description: "Convert a string to an array of characters"
+description: "Convert a string to an array of characters."
 topic: "strings"
 parameters:
   - name: "s"

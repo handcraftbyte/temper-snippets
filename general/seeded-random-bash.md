@@ -1,6 +1,6 @@
 ---
 title: "Seeded Random"
-description: "Generate reproducible random numbers using a seed value"
+description: "Generate reproducible random numbers using a seed value."
 topic: "math"
 parameters:
   - name: "seed"

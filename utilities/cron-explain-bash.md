@@ -1,12 +1,12 @@
 ---
 title: "Explain Cron Expression"
-description: "Break down a cron expression into human-readable field descriptions"
+description: "Break down a cron expression into human-readable field descriptions."
 topic: "system"
 parameters:
   - name: "expr"
     type: "string"
     default: "30 9 * * 1-5"
-    description: "Cron expression (5 fields)"
+    description: "Cron expression (5 fields)."
 exampleOutputs:
   - input: { "expr": "0 0 * * *" }
     output: "minute: 0\nhour: 0\nday: every day\nmonth: every month\nweekday: every day"

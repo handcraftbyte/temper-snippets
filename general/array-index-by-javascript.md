@@ -1,6 +1,6 @@
 ---
 title: "Index By Property"
-description: "Create an object indexed by a property value"
+description: "Create an object indexed by a property value for fast lookups."
 topic: "arrays"
 parameters:
   - name: "arr"

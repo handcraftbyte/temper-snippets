@@ -1,6 +1,6 @@
 ---
 title: "Validate URL"
-description: "Check if a string is a valid URL"
+description: "Check if a string is a valid URL."
 topic: "validation"
 parameters:
   - name: "url"

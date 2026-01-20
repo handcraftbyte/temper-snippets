@@ -1,6 +1,6 @@
 ---
 title: "Distance Between Points"
-description: "Calculate the Euclidean distance between two points"
+description: "Calculate the Euclidean distance between two points."
 topic: "math"
 parameters:
   - name: "x1"

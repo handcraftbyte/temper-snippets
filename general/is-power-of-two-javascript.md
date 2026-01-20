@@ -1,6 +1,6 @@
 ---
 title: "Is Power of Two"
-description: "Check if a number is a power of two"
+description: "Check if a number is a power of two."
 topic: "math"
 parameters:
   - name: "n"

@@ -1,6 +1,6 @@
 ---
 title: "Highlight Matches"
-description: "Wrap regex matches with HTML tags"
+description: "Wrap regex matches with HTML tags."
 topic: "strings"
 parameters:
   - name: "str"

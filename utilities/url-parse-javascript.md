@@ -1,12 +1,12 @@
 ---
 title: "Parse URL"
-description: "Break down URL into its components"
+description: "Break down a URL into its individual components like protocol, host, and path."
 topic: "strings"
 parameters:
   - name: "url"
     type: "string"
     default: "https://user:pass@example.com:8080/path/to/page?foo=bar&baz=qux#section"
-    description: "URL to parse"
+    description: "URL to parse."
 exampleOutputs:
   - input: { "url": "https://example.com/path?q=test" }
     output: "protocol: https:\nhost: example.com\npathname: /path\nsearch: ?q=test"

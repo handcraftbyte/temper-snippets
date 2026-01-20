@@ -1,6 +1,6 @@
 ---
 title: "Object Group By Key"
-description: "Group array of objects by a key"
+description: "Group an array of objects by a specified key into categorized collections."
 topic: "objects"
 parameters:
   - name: "arr"

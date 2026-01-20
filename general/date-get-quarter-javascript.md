@@ -1,6 +1,6 @@
 ---
 title: "Get Quarter"
-description: "Get the quarter (1-4) for a date"
+description: "Get the quarter (1-4) for a date."
 topic: "dates"
 parameters:
   - name: "date"

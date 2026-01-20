@@ -1,6 +1,6 @@
 ---
 title: "Fetch with Timeout"
-description: "Make HTTP requests with a configurable timeout using AbortController"
+description: "Make HTTP requests with a configurable timeout using AbortController."
 topic: "http"
 parameters:
   - name: url

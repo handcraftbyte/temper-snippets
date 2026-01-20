@@ -1,12 +1,12 @@
 ---
 title: "Detect Dark Mode"
-description: "Check if user prefers dark mode"
+description: "Check if user prefers dark mode using the prefers-color-scheme media query."
 topic: "browser"
 parameters:
   - name: "example"
     type: "string"
     default: "demo"
-    description: "Example parameter"
+    description: "Example parameter."
 exampleOutputs:
   - input: { "example": "demo" }
     output: "true"

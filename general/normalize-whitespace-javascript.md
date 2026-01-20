@@ -1,6 +1,6 @@
 ---
 title: "Normalize Whitespace"
-description: "Replace multiple whitespace with single space"
+description: "Replace multiple consecutive whitespace characters with a single space and trim edges."
 topic: "strings"
 parameters:
   - name: "str"

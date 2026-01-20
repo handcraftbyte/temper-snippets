@@ -1,6 +1,6 @@
 ---
 title: "Object Filter by Values"
-description: "Filter object entries based on their values"
+description: "Filter object entries based on their values using a threshold condition."
 topic: "objects"
 parameters:
   - name: "obj"

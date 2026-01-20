@@ -1,6 +1,6 @@
 ---
 title: "Parallel with Limit"
-description: "Run promises in parallel with concurrency limit"
+description: "Run promises in parallel with a concurrency limit to control resource usage and prevent overwhelming external services."
 topic: "async"
 exampleOutputs:
   - input: {}

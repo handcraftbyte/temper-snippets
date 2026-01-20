@@ -1,6 +1,6 @@
 ---
 title: "Count Characters"
-description: "Count the number of characters in a string (excluding or including spaces)"
+description: "Count the number of characters in a string, with option to exclude spaces."
 topic: "strings"
 relatedSlugs:
   - "count-characters-javascript"

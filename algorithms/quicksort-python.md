@@ -1,6 +1,6 @@
 ---
 title: "Quicksort"
-description: "Sort array using quicksort algorithm"
+description: "Sort an array using the quicksort algorithm with average O(n log n) time complexity."
 topic: "sorting"
 parameters:
   - name: "arr"

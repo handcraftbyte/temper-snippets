@@ -1,6 +1,6 @@
 ---
 title: "Generate UUID v7"
-description: "Generate a Unix timestamp-based UUID v7 with millisecond precision, ideal for database primary keys"
+description: "Generate a Unix timestamp-based UUID v7 with millisecond precision, ideal for database primary keys."
 topic: "generators"
 parameters: []
 exampleOutputs:

@@ -1,6 +1,6 @@
 ---
 title: "Object Pick"
-description: "Pick specified keys from an object"
+description: "Create a new object with only the specified keys from the original."
 topic: "objects"
 parameters:
   - name: "obj"

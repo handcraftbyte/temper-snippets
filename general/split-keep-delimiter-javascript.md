@@ -1,6 +1,6 @@
 ---
 title: "Split Keep Delimiter"
-description: "Split string but keep the delimiter in results"
+description: "Split string but keep the delimiter in results."
 topic: "strings"
 parameters:
   - name: "str"

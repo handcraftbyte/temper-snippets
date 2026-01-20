@@ -1,6 +1,6 @@
 ---
 title: "Object Rename Keys"
-description: "Rename keys in an object based on a mapping"
+description: "Rename keys in an object based on a provided key mapping."
 topic: "objects"
 parameters:
   - name: "obj"

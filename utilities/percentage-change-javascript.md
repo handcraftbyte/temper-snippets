@@ -1,16 +1,16 @@
 ---
 title: "Percentage Change"
-description: "Calculate percentage change between two values"
+description: "Calculate the percentage change between two values."
 topic: "math"
 parameters:
   - name: "oldValue"
     type: "number"
     default: 100
-    description: "Original value"
+    description: "Original value."
   - name: "newValue"
     type: "number"
     default: 125
-    description: "New value"
+    description: "New value."
 exampleOutputs:
   - input: { "oldValue": 100, "newValue": 125 }
     output: "+25.00%"

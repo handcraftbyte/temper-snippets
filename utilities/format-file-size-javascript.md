@@ -1,12 +1,12 @@
 ---
 title: "Format File Size"
-description: "Format bytes to human readable file size"
+description: "Format bytes to a human readable file size with appropriate units."
 topic: "formatting"
 parameters:
   - name: "bytes"
     type: "number"
     default: 1536000
-    description: "Size in bytes"
+    description: "Size in bytes."
 exampleOutputs:
   - input: { "bytes": 1536000 }
     output: "1.46 MB"

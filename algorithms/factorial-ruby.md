@@ -1,6 +1,6 @@
 ---
 title: "Factorial"
-description: "Calculate the factorial of a number (n!)"
+description: "Calculate the factorial of a number (n!) using iterative multiplication."
 topic: "math"
 relatedSlugs:
   - "factorial-javascript"

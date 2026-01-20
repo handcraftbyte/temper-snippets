@@ -1,6 +1,6 @@
 ---
 title: "Average Array"
-description: "Calculate the average of all numbers in an array"
+description: "Calculate the arithmetic mean of all numbers in an array."
 topic: "arrays"
 parameters:
   - name: "arr"

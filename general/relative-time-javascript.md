@@ -1,6 +1,6 @@
 ---
 title: "Relative Time (Time Ago)"
-description: "Convert a date to relative time format (e.g., '2 hours ago')"
+description: "Convert a date to a human-readable relative time format such as '2 hours ago' or 'in 3 days'."
 topic: "dates"
 parameters:
   - name: "dateStr"

@@ -12,7 +12,7 @@ parameters:
   - name: "content"
     type: "string"
     default: "DB_HOST=localhost\nDB_PORT=5432\nAPI_KEY=secret123"
-    description: "ENV file content"
+    description: "ENV file content."
 exampleOutputs:
   - input: { "content": "FOO=bar\nBAZ=qux" }
     output: '{"FOO":"bar","BAZ":"qux"}'

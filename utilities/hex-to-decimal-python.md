@@ -1,12 +1,12 @@
 ---
 title: "Hex to Decimal"
-description: "Convert a hexadecimal string to decimal"
+description: "Convert a hexadecimal string to decimal."
 topic: "math"
 parameters:
   - name: "hex"
     type: "string"
     default: "ff"
-    description: "Hex string to convert"
+    description: "Hex string to convert."
 exampleOutputs:
   - input: { "hex": "ff" }
     output: "255"

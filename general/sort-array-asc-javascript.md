@@ -1,6 +1,6 @@
 ---
 title: "Sort Array Ascending"
-description: "Sort an array of numbers in ascending order"
+description: "Sort an array of numbers in ascending order."
 topic: "arrays"
 parameters:
   - name: "arr"

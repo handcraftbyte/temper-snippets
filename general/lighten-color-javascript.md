@@ -1,6 +1,6 @@
 ---
 title: "Lighten Color"
-description: "Lighten a hex color by a percentage"
+description: "Lighten a hex color by a percentage."
 topic: "colors"
 parameters:
   - name: "hex"

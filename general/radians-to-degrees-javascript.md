@@ -1,6 +1,6 @@
 ---
 title: "Radians to Degrees"
-description: "Convert radians to degrees"
+description: "Convert an angle from radians to degrees."
 topic: "math"
 parameters:
   - name: "radians"

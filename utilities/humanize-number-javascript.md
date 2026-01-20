@@ -1,12 +1,12 @@
 ---
 title: "Humanize Number"
-description: "Convert large number to human readable format (K, M, B)"
+description: "Convert large number to human readable format (K, M, B)."
 topic: "formatting"
 parameters:
   - name: "num"
     type: "number"
     default: 1234567
-    description: "Number to humanize"
+    description: "Number to humanize."
 exampleOutputs:
   - input: { "num": 1234567 }
     output: "1.23M"

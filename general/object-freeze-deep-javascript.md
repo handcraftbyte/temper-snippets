@@ -1,6 +1,6 @@
 ---
 title: "Deep Freeze Object"
-description: "Recursively freeze an object and all nested objects"
+description: "Recursively freeze an object and all nested objects to make them immutable."
 topic: "objects"
 parameters:
   - name: "obj"

@@ -1,6 +1,6 @@
 ---
 title: "Compare Strings (Case Insensitive)"
-description: "Compare two strings ignoring case"
+description: "Compare two strings ignoring case differences."
 topic: "strings"
 relatedSlugs:
   - "compare-strings-javascript"

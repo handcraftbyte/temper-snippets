@@ -1,6 +1,6 @@
 ---
 title: "Sliding Window Maximum"
-description: "Find maximum in each sliding window of size k"
+description: "Find the maximum value in each sliding window of size k as it moves across the array."
 topic: "arrays"
 parameters:
   - name: "arr"

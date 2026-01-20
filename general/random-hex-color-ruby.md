@@ -1,6 +1,6 @@
 ---
 title: "Random Hex Color"
-description: "Generate a random hex color code"
+description: "Generate a random hexadecimal color code for use in CSS or graphics applications."
 topic: "colors"
 parameters: []
 exampleOutputs:

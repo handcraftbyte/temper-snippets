@@ -1,6 +1,6 @@
 ---
 title: "Find All Duplicates"
-description: "Find all duplicate elements in an array"
+description: "Find all elements that appear more than once in an array using frequency counting."
 topic: "arrays"
 parameters:
   - name: "arr"

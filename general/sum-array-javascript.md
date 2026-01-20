@@ -1,6 +1,6 @@
 ---
 title: "Sum Array"
-description: "Calculate the sum of all numbers in an array"
+description: "Calculate the sum of all numbers in an array."
 topic: "arrays"
 parameters:
   - name: "arr"

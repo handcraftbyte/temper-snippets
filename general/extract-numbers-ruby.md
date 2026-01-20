@@ -1,6 +1,6 @@
 ---
 title: "Extract Numbers from String"
-description: "Extract all numbers from a string"
+description: "Extract all numbers from a string."
 topic: "strings"
 relatedSlugs:
   - "extract-numbers-javascript"

@@ -1,6 +1,6 @@
 ---
 title: "Check if Palindrome"
-description: "Check if a string is a palindrome (reads the same forwards and backwards)"
+description: "Check if a string is a palindrome by comparing characters from both ends."
 topic: "strings"
 parameters:
   - name: "s"

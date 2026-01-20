@@ -1,6 +1,6 @@
 ---
 title: "Sequential Promises"
-description: "Execute async operations sequentially"
+description: "Execute async operations sequentially, ensuring each completes before starting the next."
 topic: "async"
 exampleOutputs:
   - input: {}

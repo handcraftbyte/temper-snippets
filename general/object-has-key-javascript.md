@@ -1,6 +1,6 @@
 ---
 title: "Object Has Key"
-description: "Check if object has a specific key (supports nested paths)"
+description: "Check if an object has a specific key using dot notation for nested paths."
 topic: "objects"
 parameters:
   - name: "obj"

@@ -1,6 +1,6 @@
 ---
 title: "Wrap Text"
-description: "Wrap text at a specified character width"
+description: "Wrap text at a specified character width."
 topic: "strings"
 relatedSlugs:
   - "wrap-text-javascript"

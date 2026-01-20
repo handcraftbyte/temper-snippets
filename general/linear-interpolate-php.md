@@ -1,6 +1,6 @@
 ---
 title: "Linear Interpolation"
-description: "Interpolate between two values"
+description: "Interpolate between two values."
 topic: "math"
 parameters:
   - name: "start"

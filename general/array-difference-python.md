@@ -1,6 +1,6 @@
 ---
 title: "Array Difference"
-description: "Find elements in first array that are not in second array"
+description: "Find elements in the first array that are not present in the second array."
 topic: "arrays"
 parameters:
   - name: "arr1"

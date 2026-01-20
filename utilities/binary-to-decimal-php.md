@@ -1,12 +1,12 @@
 ---
 title: "Binary to Decimal"
-description: "Convert a binary string to decimal"
+description: "Convert a binary string representation to its decimal number equivalent."
 topic: "math"
 parameters:
   - name: "binary"
     type: "string"
     default: "101010"
-    description: "Binary string to convert"
+    description: "Binary string to convert."
 exampleOutputs:
   - input: { "binary": "101010" }
     output: "42"

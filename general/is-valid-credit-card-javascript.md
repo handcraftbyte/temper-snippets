@@ -1,6 +1,6 @@
 ---
 title: "Validate Credit Card (Luhn)"
-description: "Validate a credit card number using the Luhn algorithm"
+description: "Validate a credit card number using the Luhn algorithm."
 topic: "validation"
 parameters:
   - name: "cardNumber"

@@ -1,6 +1,6 @@
 ---
 title: "Inspect Response Headers"
-description: "Fetch a URL and inspect all response headers"
+description: "Fetch a URL and inspect all response headers including custom ones."
 topic: "http"
 parameters: []
 exampleOutputs:

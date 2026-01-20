@@ -1,6 +1,6 @@
 ---
 title: "Selection Sort"
-description: "Sort array using selection sort algorithm"
+description: "Sort an array using the selection sort algorithm by repeatedly finding the minimum element."
 topic: "sorting"
 parameters:
   - name: "arr"

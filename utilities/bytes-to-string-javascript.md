@@ -1,12 +1,12 @@
 ---
 title: "Bytes to String"
-description: "Convert byte array to string (UTF-8)"
+description: "Convert a byte array to a UTF-8 encoded string using TextDecoder."
 topic: "encoding"
 parameters:
   - name: "bytes"
     type: "array"
     default: [72, 101, 108, 108, 111]
-    description: "Byte array"
+    description: "Byte array."
 exampleOutputs:
   - input: { "bytes": [72, 101, 108, 108, 111] }
     output: "Hello"

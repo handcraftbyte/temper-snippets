@@ -1,6 +1,6 @@
 ---
 title: "Shuffle Array"
-description: "Randomly shuffle the elements of an array"
+description: "Randomly shuffle the elements of an array."
 topic: "arrays"
 relatedSlugs:
   - "shuffle-array-javascript"

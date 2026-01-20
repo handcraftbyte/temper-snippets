@@ -1,6 +1,6 @@
 ---
 title: "Reverse Array"
-description: "Reverse the order of elements in an array"
+description: "Reverse the order of elements in an array, returning a new array with elements in opposite order."
 topic: "arrays"
 parameters:
   - name: "arr"

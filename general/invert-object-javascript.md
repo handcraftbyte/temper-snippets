@@ -1,6 +1,6 @@
 ---
 title: "Invert Object"
-description: "Swap keys and values in an object"
+description: "Swap keys and values in an object."
 topic: "objects"
 parameters:
   - name: "obj"

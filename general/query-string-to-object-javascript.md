@@ -1,6 +1,6 @@
 ---
 title: "Query String to Object"
-description: "Parse a URL query string into an object"
+description: "Parse a URL query string into an object with decoded key-value pairs."
 topic: "objects"
 parameters:
   - name: "queryString"

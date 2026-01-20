@@ -1,20 +1,20 @@
 ---
 title: "Convert Currency"
-description: "Convert between currencies using Frankfurter API"
+description: "Convert between currencies using the Frankfurter API for live exchange rates."
 topic: "converters"
 parameters:
   - name: "amount"
     type: "number"
     default: 100
-    description: "Amount to convert"
+    description: "Amount to convert."
   - name: "from"
     type: "string"
     default: "USD"
-    description: "Source currency code"
+    description: "Source currency code."
   - name: "to"
     type: "string"
     default: "EUR"
-    description: "Target currency code"
+    description: "Target currency code."
 exampleOutputs:
   - input: { "amount": 100, "from": "USD", "to": "EUR" }
     output: "100 USD = 92.50 EUR"

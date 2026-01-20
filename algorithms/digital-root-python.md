@@ -1,6 +1,6 @@
 ---
 title: "Digital Root"
-description: "Keep summing digits until single digit remains"
+description: "Calculate the digital root by repeatedly summing digits until a single digit remains."
 topic: "math"
 parameters:
   - name: "num"

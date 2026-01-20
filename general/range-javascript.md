@@ -1,6 +1,6 @@
 ---
 title: "Generate Range"
-description: "Generate an array of numbers in a range"
+description: "Generate a sequence of numbers within a specified range with a configurable step value."
 topic: "arrays"
 parameters:
   - name: "start"

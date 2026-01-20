@@ -1,6 +1,6 @@
 ---
 title: "Deep Merge Objects"
-description: "Deep merge two objects, combining nested properties"
+description: "Deep merge two objects, combining nested properties."
 topic: "objects"
 parameters:
   - name: "target"

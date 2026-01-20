@@ -1,6 +1,6 @@
 ---
 title: "Object Diff"
-description: "Find the differences between two objects"
+description: "Find the differences between two objects, showing changed, added, and removed keys."
 topic: "objects"
 parameters:
   - name: "obj1"

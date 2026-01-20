@@ -1,6 +1,6 @@
 ---
 title: "CORS Cross-Origin Request"
-description: "Make cross-origin request with CORS headers inspection"
+description: "Make a cross-origin HTTP request with CORS headers inspection."
 topic: "http"
 parameters: []
 exampleOutputs:

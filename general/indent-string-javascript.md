@@ -1,6 +1,6 @@
 ---
 title: "Indent String"
-description: "Add indentation to each line of a string"
+description: "Add indentation to each line of a string."
 topic: "strings"
 parameters:
   - name: "str"

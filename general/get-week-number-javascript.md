@@ -1,6 +1,6 @@
 ---
 title: "Get Week Number"
-description: "Get the ISO week number from a date"
+description: "Get the ISO week number from a date."
 topic: "dates"
 parameters:
   - name: "dateStr"

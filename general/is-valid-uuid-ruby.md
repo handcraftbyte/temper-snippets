@@ -1,6 +1,6 @@
 ---
 title: "Validate UUID"
-description: "Check if a string is a valid UUID (v1-v7)"
+description: "Check if a string is a valid UUID (v1-v7)."
 topic: "validation"
 parameters:
   - name: "uuid"

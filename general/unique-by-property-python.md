@@ -1,6 +1,6 @@
 ---
 title: "Unique by Property"
-description: "Remove duplicates from array of objects by a specific property"
+description: "Remove duplicates from array of objects by a specific property."
 topic: "arrays"
 parameters:
   - name: "arr"

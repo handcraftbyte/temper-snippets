@@ -1,6 +1,6 @@
 ---
 title: "Get Random Array Item"
-description: "Get a random item from an array"
+description: "Select and return a random element from an array."
 topic: "arrays"
 parameters:
   - name: "arr"

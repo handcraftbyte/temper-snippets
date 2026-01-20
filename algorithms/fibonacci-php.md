@@ -1,6 +1,6 @@
 ---
 title: "Fibonacci Sequence"
-description: "Generate the first N numbers of the Fibonacci sequence"
+description: "Generate the first N numbers of the Fibonacci sequence where each number is the sum of the two preceding ones."
 topic: "math"
 relatedSlugs:
   - "fibonacci-javascript"

@@ -1,6 +1,6 @@
 ---
 title: "Format Date"
-description: "Format a date string into a human-readable format using Intl.DateTimeFormat"
+description: "Format a date string into a human-readable format using Intl.DateTimeFormat."
 topic: "dates"
 tags: ["date", "format", "intl", "locale", "time"]
 relatedSlugs: []
@@ -8,11 +8,11 @@ parameters:
   - name: "dateString"
     type: "string"
     default: "2024-01-15T10:30:00Z"
-    description: "ISO date string to format"
+    description: "ISO date string to format."
   - name: "locale"
     type: "string"
     default: "en-US"
-    description: "Locale for formatting (e.g., en-US, de-DE, ja-JP)"
+    description: "Locale for formatting (e.g., en-US, de-DE, ja-JP)."
 exampleOutputs:
   - input: { "dateString": "2024-01-15T10:30:00Z", "locale": "en-US" }
     output: "January 15, 2024 at 10:30 AM"

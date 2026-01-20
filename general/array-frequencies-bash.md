@@ -1,6 +1,6 @@
 ---
 title: "Array Frequencies"
-description: "Count occurrences of each value in an array"
+description: "Count how many times each value appears in an array and return a frequency map."
 topic: "arrays"
 parameters:
   - name: "arr"

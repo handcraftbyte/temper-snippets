@@ -1,6 +1,6 @@
 ---
 title: "Flatten Array"
-description: "Flatten a nested array to a single level"
+description: "Flatten a nested array to a single level."
 topic: "arrays"
 relatedSlugs:
   - "flatten-array-javascript"

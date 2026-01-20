@@ -1,6 +1,6 @@
 ---
 title: "Chunk Array"
-description: "Split an array into chunks of a specified size"
+description: "Split an array into smaller chunks of a specified size."
 topic: "arrays"
 relatedSlugs:
   - "chunk-array-javascript"

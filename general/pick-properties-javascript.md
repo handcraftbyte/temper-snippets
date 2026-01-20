@@ -1,6 +1,6 @@
 ---
 title: "Pick Properties"
-description: "Create an object with only the specified properties"
+description: "Create an object with only the specified properties using comma-separated keys."
 topic: "objects"
 parameters:
   - name: "obj"

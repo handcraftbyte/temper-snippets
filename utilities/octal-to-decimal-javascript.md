@@ -1,12 +1,12 @@
 ---
 title: "Octal to Decimal"
-description: "Convert octal string to decimal number"
+description: "Convert an octal string representation to its decimal number equivalent."
 topic: "converters"
 parameters:
   - name: "octal"
     type: "string"
     default: "755"
-    description: "Octal string"
+    description: "Octal string."
 exampleOutputs:
   - input: { "octal": "755" }
     output: "493"

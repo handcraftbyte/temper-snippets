@@ -1,6 +1,6 @@
 ---
 title: "Modular Exponentiation"
-description: "Calculate (base^exp) % mod efficiently"
+description: "Calculate (base^exp) % mod efficiently using binary exponentiation."
 topic: "math"
 parameters:
   - name: "base"

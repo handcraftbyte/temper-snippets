@@ -1,6 +1,6 @@
 ---
 title: "Get Nested Value"
-description: "Safely get a nested property value from an object"
+description: "Safely get a nested property value from an object."
 topic: "objects"
 parameters:
   - name: "obj"

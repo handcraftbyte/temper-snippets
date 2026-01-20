@@ -1,12 +1,12 @@
 ---
 title: "Sum Numbers"
-description: "Extract and sum all numbers from text"
+description: "Extract and sum all numbers found in a text string."
 topic: "math"
 parameters:
   - name: "text"
     type: "string"
     default: "I have 5 apples, 3 oranges, and 12 bananas"
-    description: "Text containing numbers to sum"
+    description: "Text containing numbers to sum."
 exampleOutputs:
   - input: { "text": "I have 5 apples, 3 oranges, and 12 bananas" }
     output: "20"

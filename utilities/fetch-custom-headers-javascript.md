@@ -1,6 +1,6 @@
 ---
 title: "Send Custom Headers"
-description: "Send request with custom HTTP headers and inspect them"
+description: "Send an HTTP request with custom headers and inspect them in the response."
 topic: "http"
 parameters: []
 exampleOutputs:

@@ -1,6 +1,6 @@
 ---
 title: "Mini LLM"
-description: "See the core mechanism behind LLM: predict the next token, append it, repeat"
+description: "Demonstrate the core mechanism behind LLMs by predicting the next token, appending it, and repeating."
 topic: "machine-learning"
 parameters:
   - name: "prompt"

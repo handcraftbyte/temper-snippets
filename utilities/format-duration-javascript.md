@@ -1,12 +1,12 @@
 ---
 title: "Format Duration"
-description: "Format a duration in seconds to human readable format"
+description: "Format a duration in seconds to a human readable format like '1h 2m 3s'."
 topic: "dates"
 parameters:
   - name: "seconds"
     type: "number"
     default: 3661
-    description: "Duration in seconds"
+    description: "Duration in seconds."
 exampleOutputs:
   - input: { "seconds": 3661 }
     output: "1h 1m 1s"

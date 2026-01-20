@@ -1,6 +1,6 @@
 ---
 title: "Is Light Color"
-description: "Check if a hex color is light (good for determining text color)"
+description: "Check if a hex color is light (good for determining text color)."
 topic: "colors"
 parameters:
   - name: "hex"

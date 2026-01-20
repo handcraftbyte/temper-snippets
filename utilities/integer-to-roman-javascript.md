@@ -1,12 +1,12 @@
 ---
 title: "Integer to Roman"
-description: "Convert integer to Roman numeral"
+description: "Convert integer to Roman numeral."
 topic: "converters"
 parameters:
   - name: "num"
     type: "number"
     default: 1994
-    description: "Integer (1-3999)"
+    description: "Integer (1-3999)."
 exampleOutputs:
   - input: { "num": 1994 }
     output: "MCMXCIV"

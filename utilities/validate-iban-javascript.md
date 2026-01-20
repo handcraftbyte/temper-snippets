@@ -1,12 +1,12 @@
 ---
 title: "Validate IBAN"
-description: "Check if a string is a valid IBAN (International Bank Account Number)"
+description: "Check if a string is a valid IBAN (International Bank Account Number)."
 topic: "validation"
 parameters:
   - name: "iban"
     type: "string"
     default: "GB82WEST12345698765432"
-    description: "IBAN to validate"
+    description: "IBAN to validate."
 exampleOutputs:
   - input: { "iban": "GB82WEST12345698765432" }
     output: "true"

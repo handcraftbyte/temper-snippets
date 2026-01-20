@@ -1,6 +1,6 @@
 ---
 title: "Partition Array"
-description: "Split array into two based on a condition"
+description: "Split an array into two groups based on a condition."
 topic: "arrays"
 parameters:
   - name: "arr"

@@ -1,6 +1,6 @@
 ---
 title: "Handle Redirects"
-description: "Control redirect behavior and track redirect chain"
+description: "Control redirect behavior and track the redirect chain."
 topic: "http"
 parameters: []
 exampleOutputs:

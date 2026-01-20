@@ -1,6 +1,6 @@
 ---
 title: "Get My IP Address"
-description: "Get your public IP address using the ipify API"
+description: "Get your public IP address using the ipify API."
 topic: "http"
 parameters: []
 exampleOutputs:

@@ -1,6 +1,6 @@
 ---
 title: "Darken Color"
-description: "Darken a hex color by a percentage"
+description: "Darken a hex color by a percentage."
 topic: "colors"
 parameters:
   - name: "hex"

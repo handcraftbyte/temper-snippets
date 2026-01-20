@@ -1,6 +1,6 @@
 ---
 title: "Start of Week"
-description: "Get the start of the week for a date"
+description: "Get the start of the week for a date."
 topic: "dates"
 parameters:
   - name: "date"

@@ -1,6 +1,6 @@
 ---
 title: "Prime Factors"
-description: "Find all prime factors of a number"
+description: "Find all prime factors of a number using trial division."
 topic: "math"
 parameters:
   - name: "n"

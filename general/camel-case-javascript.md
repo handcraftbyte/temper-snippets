@@ -1,6 +1,6 @@
 ---
 title: "Convert to Camel Case"
-description: "Convert a string to camelCase format"
+description: "Convert a string to camelCase format with lowercase first letter."
 topic: "strings"
 parameters:
   - name: "str"

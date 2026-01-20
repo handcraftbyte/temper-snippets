@@ -1,6 +1,6 @@
 ---
 title: "Pad String End"
-description: "Pad a string from the end to reach a target length"
+description: "Pad a string from the end with a specified character to reach a target length."
 topic: "strings"
 relatedSlugs:
   - "pad-end-javascript"

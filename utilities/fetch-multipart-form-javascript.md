@@ -1,6 +1,6 @@
 ---
 title: "Send Multipart Form Data"
-description: "Upload files and form fields using multipart/form-data encoding"
+description: "Upload files and form fields using multipart/form-data encoding."
 topic: "http"
 parameters: []
 exampleOutputs:

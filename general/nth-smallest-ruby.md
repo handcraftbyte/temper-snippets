@@ -1,6 +1,6 @@
 ---
 title: "Nth Smallest Element"
-description: "Find the nth smallest element in an array"
+description: "Find the nth smallest element in an array by sorting in ascending order."
 topic: "arrays"
 parameters:
   - name: "arr"

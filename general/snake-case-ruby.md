@@ -1,6 +1,6 @@
 ---
 title: "Convert to snake_case"
-description: "Convert a string to snake_case"
+description: "Convert a string to snake_case."
 topic: "strings"
 relatedSlugs:
   - "snake-case-javascript"

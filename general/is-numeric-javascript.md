@@ -1,6 +1,6 @@
 ---
 title: "Is Numeric"
-description: "Check if a string represents a valid number"
+description: "Check if a string represents a valid number."
 topic: "validation"
 parameters:
   - name: "str"

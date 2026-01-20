@@ -1,6 +1,6 @@
 ---
 title: "Remove Duplicate Characters"
-description: "Remove duplicate characters from a string, keeping first occurrence"
+description: "Remove duplicate characters from a string while keeping only the first occurrence of each character."
 topic: "strings"
 parameters:
   - name: "str"

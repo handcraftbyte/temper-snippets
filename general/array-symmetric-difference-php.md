@@ -1,6 +1,6 @@
 ---
 title: "Symmetric Difference"
-description: "Find elements in either array but not both"
+description: "Find elements in either array but not in both (exclusive OR)."
 topic: "arrays"
 parameters:
   - name: "arr1"

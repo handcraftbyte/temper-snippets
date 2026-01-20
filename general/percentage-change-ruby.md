@@ -1,6 +1,6 @@
 ---
 title: "Percentage Change"
-description: "Calculate the percentage change between two values"
+description: "Calculate the percentage change between an old and new value."
 topic: "math"
 parameters:
   - name: "old_value"

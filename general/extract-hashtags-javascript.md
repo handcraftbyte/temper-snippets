@@ -1,6 +1,6 @@
 ---
 title: "Extract Hashtags"
-description: "Extract all hashtags from a text string"
+description: "Extract all hashtags from a text string."
 topic: "strings"
 parameters:
   - name: "text"

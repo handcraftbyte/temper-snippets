@@ -1,6 +1,6 @@
 ---
 title: "Array Head"
-description: "Get first n elements of an array"
+description: "Get the first n elements of an array."
 topic: "arrays"
 parameters:
   - name: "arr"

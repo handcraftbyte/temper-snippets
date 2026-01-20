@@ -1,6 +1,6 @@
 ---
 title: "Strip Markdown"
-description: "Remove Markdown formatting and return plain text"
+description: "Remove Markdown formatting and return plain text."
 topic: "strings"
 parameters:
   - name: "markdown"

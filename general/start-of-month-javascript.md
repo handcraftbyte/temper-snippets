@@ -1,6 +1,6 @@
 ---
 title: "Start of Month"
-description: "Get the first day of the month for a date"
+description: "Get the first day of the month for a date."
 topic: "dates"
 parameters:
   - name: "dateStr"

@@ -1,6 +1,6 @@
 ---
 title: "End of Day"
-description: "Get the end of day (23:59:59.999) for a date"
+description: "Get the end of day (23:59:59.999) for a date."
 topic: "dates"
 parameters:
   - name: "dateStr"

@@ -1,6 +1,6 @@
 ---
 title: "Center String"
-description: "Center a string within a given width"
+description: "Center a string within a given width by padding with spaces."
 topic: "strings"
 parameters:
   - name: "str"

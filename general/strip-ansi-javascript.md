@@ -1,6 +1,6 @@
 ---
 title: "Strip ANSI Codes"
-description: "Remove ANSI escape codes from a string"
+description: "Remove ANSI escape codes from a string."
 topic: "strings"
 parameters:
   - name: "str"

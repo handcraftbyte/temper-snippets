@@ -1,6 +1,6 @@
 ---
 title: "Matrix Multiply"
-description: "Multiply two matrices"
+description: "Multiply two matrices."
 topic: "arrays"
 parameters:
   - name: "a"

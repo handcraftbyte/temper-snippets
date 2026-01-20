@@ -1,6 +1,6 @@
 ---
 title: "Object Set Nested Value"
-description: "Set a value at a nested path in an object"
+description: "Set a value at a nested path in an object using dot notation."
 topic: "objects"
 parameters:
   - name: "obj"

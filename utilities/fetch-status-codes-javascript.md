@@ -1,12 +1,12 @@
 ---
 title: "Test HTTP Status Codes"
-description: "Request specific HTTP status codes to test error handling"
+description: "Request specific HTTP status codes to test error handling."
 topic: "http"
 parameters:
   - name: "statusCode"
     type: "number"
     default: 404
-    description: "HTTP status code to request (200, 400, 404, 500, etc.)"
+    description: "HTTP status code to request (200, 400, 404, 500, etc.)."
 exampleOutputs:
   - input: { "statusCode": 404 }
     output: '{"status": 404, "ok": false}'

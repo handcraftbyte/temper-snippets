@@ -1,12 +1,12 @@
 ---
 title: "Mask Email"
-description: "Mask an email address for privacy while keeping it recognizable"
+description: "Mask an email address for privacy while keeping it recognizable by showing first and last characters."
 topic: "strings"
 parameters:
   - name: "email"
     type: "string"
     default: "john.doe@example.com"
-    description: "The email address to mask"
+    description: "The email address to mask."
 exampleOutputs:
   - input: { "email": "john.doe@example.com" }
     output: "j******e@example.com"

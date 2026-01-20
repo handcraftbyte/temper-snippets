@@ -1,6 +1,6 @@
 ---
 title: "Merge Objects"
-description: "Merge two objects together (shallow merge)"
+description: "Merge two objects together (shallow merge)."
 topic: "objects"
 parameters:
   - name: "obj1"

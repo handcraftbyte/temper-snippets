@@ -1,6 +1,6 @@
 ---
 title: "Partition Array"
-description: "Split array into two arrays based on a condition (even/odd)"
+description: "Split an array into two arrays based on a condition, separating even and odd numbers."
 topic: "arrays"
 parameters:
   - name: "arr"

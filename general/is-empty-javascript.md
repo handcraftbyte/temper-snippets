@@ -1,6 +1,6 @@
 ---
 title: "Is Empty"
-description: "Check if a value is empty (null, undefined, empty string, array, or object)"
+description: "Check if a value is empty (null, undefined, empty string, array, or object)."
 topic: "validation"
 parameters:
   - name: "value"

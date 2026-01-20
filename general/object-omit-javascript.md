@@ -1,6 +1,6 @@
 ---
 title: "Object Omit"
-description: "Omit specified keys from an object"
+description: "Create a new object with specified keys omitted from the original."
 topic: "objects"
 parameters:
   - name: "obj"

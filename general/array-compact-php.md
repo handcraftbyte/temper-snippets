@@ -1,6 +1,6 @@
 ---
 title: "Compact Array"
-description: "Remove falsy values from an array"
+description: "Remove falsy values (null, false, 0, empty strings) from an array."
 topic: "arrays"
 parameters:
   - name: "arr"

@@ -1,12 +1,12 @@
 ---
 title: "Is Absolute URL"
-description: "Check if a URL is absolute (has protocol)"
+description: "Check if a URL is absolute (has protocol)."
 topic: "http"
 parameters:
   - name: "url"
     type: "string"
     default: "https://example.com/path"
-    description: "URL to check"
+    description: "URL to check."
 exampleOutputs:
   - input: { "url": "https://example.com/path" }
     output: "true"

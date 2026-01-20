@@ -1,6 +1,6 @@
 ---
 title: "Generate UUID v4"
-description: "Generate a random UUID v4 (Universally Unique Identifier) using the Web Crypto API"
+description: "Generate a random UUID v4 (Universally Unique Identifier) using the Web Crypto API."
 topic: "generators"
 parameters: []
 exampleOutputs:

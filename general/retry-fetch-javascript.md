@@ -1,6 +1,6 @@
 ---
 title: Retry Fetch with Backoff
-description: Automatically retry failed HTTP requests with exponential backoff
+description: "Automatically retry failed HTTP requests with exponential backoff."
 topic: "http"
 tags:
   - fetch

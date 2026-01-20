@@ -1,6 +1,6 @@
 ---
 title: "Reverse String"
-description: "Reverse the characters in a string"
+description: "Reverse the order of characters in a string, creating a mirror image of the original text."
 topic: "strings"
 relatedSlugs:
   - "reverse-string-python"

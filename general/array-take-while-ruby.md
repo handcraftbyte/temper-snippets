@@ -1,6 +1,6 @@
 ---
 title: "Take While"
-description: "Take elements from start while condition is true"
+description: "Take elements from the start of an array while a condition is true."
 topic: "arrays"
 parameters:
   - name: "arr"

@@ -1,12 +1,12 @@
 ---
 title: "CSV to Markdown Table"
-description: "Convert CSV to a markdown table"
+description: "Convert CSV data to a markdown table format for documentation."
 topic: "formatting"
 parameters:
   - name: "csv"
     type: "string"
     default: "name,age,city\nJohn,30,NYC\nJane,25,LA"
-    description: "CSV string with headers in first row"
+    description: "CSV string with headers in first row."
 exampleOutputs:
   - input: { "csv": "name,age\nJohn,30\nJane,25" }
     output: "| name | age |\n| --- | --- |\n| John | 30 |\n| Jane | 25 |"

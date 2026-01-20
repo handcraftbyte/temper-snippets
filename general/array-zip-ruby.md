@@ -1,6 +1,6 @@
 ---
 title: "Zip Arrays"
-description: "Combine multiple arrays element by element"
+description: "Combine multiple arrays element by element into tuples."
 topic: "arrays"
 parameters:
   - name: "arrays"

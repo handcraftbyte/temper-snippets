@@ -1,6 +1,6 @@
 ---
 title: "Is Alpha Only"
-description: "Check if a string contains only alphabetic characters"
+description: "Check if a string contains only alphabetic characters."
 topic: "validation"
 relatedSlugs:
   - "is-alpha-javascript"

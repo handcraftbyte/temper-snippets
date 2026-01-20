@@ -1,6 +1,6 @@
 ---
 title: "Group By Property"
-description: "Group array items by a property value"
+description: "Group array items by a property value."
 topic: "arrays"
 parameters:
   - name: "arr"

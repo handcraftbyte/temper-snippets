@@ -1,6 +1,6 @@
 ---
 title: "Start of Day"
-description: "Get the start of day (midnight) for a date"
+description: "Get the start of day (midnight) for a date."
 topic: "dates"
 parameters:
   - name: "dateStr"

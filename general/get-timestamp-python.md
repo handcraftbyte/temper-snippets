@@ -1,6 +1,6 @@
 ---
 title: "Get Current Timestamp"
-description: "Get the current Unix timestamp in milliseconds"
+description: "Get the current Unix timestamp in milliseconds."
 topic: "dates"
 parameters: []
 exampleOutputs:

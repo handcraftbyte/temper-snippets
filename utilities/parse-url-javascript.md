@@ -1,12 +1,12 @@
 ---
 title: "Parse URL"
-description: "Parse a URL into its components (protocol, host, path, etc.)"
+description: "Parse a URL into its components including protocol, host, path, query string, and hash."
 topic: "http"
 parameters:
   - name: "url"
     type: "string"
     default: "https://example.com:8080/path/to/page?query=1&foo=bar#section"
-    description: "URL to parse"
+    description: "URL to parse."
 exampleOutputs:
   - input: { "url": "https://example.com:8080/path/to/page?query=1#section" }
     output: "{protocol, host, pathname, search, hash}"

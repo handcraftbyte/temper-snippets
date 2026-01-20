@@ -1,6 +1,6 @@
 ---
 title: "Merge Intervals"
-description: "Merge overlapping intervals into consolidated ranges"
+description: "Merge overlapping intervals into consolidated ranges, a classic algorithm for scheduling and resource allocation."
 topic: "arrays"
 parameters:
   - name: "intervals"

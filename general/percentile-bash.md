@@ -1,6 +1,6 @@
 ---
 title: "Calculate Percentile"
-description: "Calculate the nth percentile of an array"
+description: "Calculate the nth percentile of an array using linear interpolation."
 topic: "math"
 parameters:
   - name: "arr"

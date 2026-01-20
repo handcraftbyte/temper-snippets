@@ -1,6 +1,6 @@
 ---
 title: "Counting Sort"
-description: "Sort array of integers using counting sort"
+description: "Sort an array of non-negative integers using counting sort for linear time performance."
 topic: "sorting"
 parameters:
   - name: "arr"

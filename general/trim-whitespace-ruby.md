@@ -1,6 +1,6 @@
 ---
 title: "Trim Extra Whitespace"
-description: "Remove extra whitespace from a string, keeping single spaces between words"
+description: "Remove extra whitespace from a string, keeping single spaces between words."
 topic: "strings"
 relatedSlugs:
   - "trim-whitespace-javascript"

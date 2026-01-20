@@ -1,6 +1,6 @@
 ---
 title: "Ordinal Suffix"
-description: "Add ordinal suffix to a number (1st, 2nd, 3rd, etc.)"
+description: "Add an ordinal suffix to a number, returning formats like 1st, 2nd, 3rd, 4th."
 topic: "math"
 parameters:
   - name: "num"

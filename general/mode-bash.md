@@ -1,6 +1,6 @@
 ---
 title: "Calculate Mode"
-description: "Find the most frequent value(s) in an array"
+description: "Find the most frequent value(s) in an array."
 topic: "math"
 parameters:
   - name: "arr"

@@ -1,6 +1,6 @@
 ---
 title: "XSS Attack Prevention"
-description: "Escape HTML entities to prevent Cross-Site Scripting attacks"
+description: "Escape HTML entities to prevent Cross-Site Scripting attacks."
 topic: "security"
 parameters:
   - name: "user_input"

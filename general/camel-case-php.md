@@ -1,6 +1,6 @@
 ---
 title: "Convert to camelCase"
-description: "Convert a string to camelCase"
+description: "Convert a string to camelCase format with lowercase first letter."
 topic: "strings"
 relatedSlugs:
   - "camel-case-javascript"

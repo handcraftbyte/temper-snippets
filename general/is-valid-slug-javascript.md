@@ -1,6 +1,6 @@
 ---
 title: "Validate Slug"
-description: "Check if a string is a valid URL slug"
+description: "Check if a string is a valid URL slug."
 topic: "validation"
 parameters:
   - name: "slug"

@@ -1,6 +1,6 @@
 ---
 title: "Get Client IP Address"
-description: "Get your public IP address and request origin info"
+description: "Get your public IP address and request origin information."
 topic: "http"
 parameters: []
 exampleOutputs:

@@ -1,6 +1,6 @@
 ---
 title: "Handle Cookies"
-description: "Set cookies via response and send them back in subsequent requests"
+description: "Set cookies via response and send them back in subsequent requests."
 topic: "http"
 parameters: []
 exampleOutputs:

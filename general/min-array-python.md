@@ -1,6 +1,6 @@
 ---
 title: "Min Value in Array"
-description: "Find the minimum value in an array"
+description: "Find the minimum value in an array."
 topic: "arrays"
 relatedSlugs:
   - "min-array-javascript"

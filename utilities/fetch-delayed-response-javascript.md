@@ -1,12 +1,12 @@
 ---
 title: "Delayed Response (Test Timeouts)"
-description: "Request a delayed response to test timeout handling"
+description: "Request a delayed response to test timeout handling with AbortController."
 topic: "http"
 parameters:
   - name: "delaySeconds"
     type: "number"
     default: 2
-    description: "Delay in seconds (max 10)"
+    description: "Delay in seconds (max 10)."
 exampleOutputs:
   - input: { "delaySeconds": 2 }
     output: '{"delayed": true, "duration": 2}'

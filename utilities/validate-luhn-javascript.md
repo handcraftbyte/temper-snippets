@@ -1,12 +1,12 @@
 ---
 title: "Validate Luhn (Credit Card)"
-description: "Check if a number passes the Luhn algorithm (credit card validation)"
+description: "Check if a number passes the Luhn algorithm for credit card validation."
 topic: "validation"
 parameters:
   - name: "num"
     type: "string"
     default: "4532015112830366"
-    description: "Number string to validate"
+    description: "Number string to validate."
 exampleOutputs:
   - input: { "num": "4532015112830366" }
     output: "true"

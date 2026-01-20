@@ -1,6 +1,6 @@
 ---
 title: HTTP Status Message
-description: Get the standard message for any HTTP status code
+description: "Get the standard message for any HTTP status code."
 topic: "http"
 tags:
   - http

@@ -1,6 +1,6 @@
 ---
 title: "Omit Properties"
-description: "Create an object without the specified properties"
+description: "Create an object without the specified properties using comma-separated keys."
 topic: "objects"
 parameters:
   - name: "obj"

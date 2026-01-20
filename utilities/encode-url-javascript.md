@@ -1,12 +1,12 @@
 ---
 title: "Encode URL"
-description: "Encode a string for use in a URL"
+description: "Encode a string for safe use in a URL by escaping special characters."
 topic: "encoding"
 parameters:
   - name: "str"
     type: "string"
     default: "Hello World! How are you?"
-    description: "The string to encode"
+    description: "The string to encode."
 exampleOutputs:
   - input: { "str": "Hello World! How are you?" }
     output: "Hello%20World!%20How%20are%20you%3F"

@@ -1,6 +1,6 @@
 ---
 title: "Invert Color"
-description: "Invert a hex color (get complementary color)"
+description: "Invert a hex color (get complementary color)."
 topic: "colors"
 parameters:
   - name: "hex"

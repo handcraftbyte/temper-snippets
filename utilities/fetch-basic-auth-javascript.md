@@ -1,6 +1,6 @@
 ---
 title: "HTTP Basic Authentication"
-description: "Make authenticated request using HTTP Basic Auth"
+description: "Make an authenticated HTTP request using Basic Auth credentials."
 topic: "http"
 parameters: []
 exampleOutputs:

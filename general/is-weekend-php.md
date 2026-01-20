@@ -1,6 +1,6 @@
 ---
 title: "Is Weekend"
-description: "Check if a date falls on a weekend (Saturday or Sunday)"
+description: "Check if a date falls on a weekend (Saturday or Sunday)."
 topic: "dates"
 parameters:
   - name: "dateStr"

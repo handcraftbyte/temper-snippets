@@ -1,6 +1,6 @@
 ---
 title: "Handle Gzip Compressed Response"
-description: "Fetch gzip-compressed data (automatically decompressed by browser)"
+description: "Fetch gzip-compressed data that is automatically decompressed by the browser."
 topic: "http"
 parameters: []
 exampleOutputs:

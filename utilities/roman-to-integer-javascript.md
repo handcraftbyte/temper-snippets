@@ -1,12 +1,12 @@
 ---
 title: "Roman to Integer"
-description: "Convert Roman numeral to integer"
+description: "Convert a Roman numeral string to its integer value."
 topic: "converters"
 parameters:
   - name: "roman"
     type: "string"
     default: "MCMXCIV"
-    description: "Roman numeral"
+    description: "Roman numeral."
 exampleOutputs:
   - input: { "roman": "MCMXCIV" }
     output: "1994"

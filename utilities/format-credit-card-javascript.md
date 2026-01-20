@@ -1,12 +1,12 @@
 ---
 title: "Format Credit Card"
-description: "Format a credit card number with spaces"
+description: "Format a credit card number with spaces every four digits."
 topic: "formatting"
 parameters:
   - name: "number"
     type: "string"
     default: "4532015112830366"
-    description: "Credit card number"
+    description: "Credit card number."
 exampleOutputs:
   - input: { "number": "4532015112830366" }
     output: "4532 0151 1283 0366"

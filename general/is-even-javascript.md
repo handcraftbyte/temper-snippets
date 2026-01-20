@@ -1,6 +1,6 @@
 ---
 title: "Is Even"
-description: "Check if a number is even"
+description: "Check if a number is even."
 topic: "math"
 parameters:
   - name: "num"

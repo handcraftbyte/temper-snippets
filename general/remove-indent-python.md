@@ -1,6 +1,6 @@
 ---
 title: "Remove Common Indent"
-description: "Remove common leading whitespace from all lines"
+description: "Remove the common leading whitespace from all lines in a multi-line string, normalizing indentation."
 topic: "strings"
 parameters:
   - name: "s"

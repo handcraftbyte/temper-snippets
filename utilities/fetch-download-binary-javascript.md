@@ -1,6 +1,6 @@
 ---
 title: "Download Binary File"
-description: "Download image or binary file and convert to blob/base64"
+description: "Download an image or binary file and convert it to a blob or base64."
 topic: "http"
 parameters: []
 exampleOutputs:

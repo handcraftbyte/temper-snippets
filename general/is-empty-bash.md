@@ -1,6 +1,6 @@
 ---
 title: "Is Empty"
-description: "Check if a value is empty"
+description: "Check if a value is empty."
 topic: "validation"
 relatedSlugs:
   - "is-empty-javascript"

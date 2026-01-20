@@ -1,6 +1,6 @@
 ---
 title: "Capitalize Words"
-description: "Capitalize the first letter of each word in a string"
+description: "Capitalize the first letter of each word in a string (title case)."
 topic: "strings"
 relatedSlugs:
   - "capitalize-words-javascript"

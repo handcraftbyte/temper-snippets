@@ -1,6 +1,6 @@
 ---
 title: "Longest Increasing Subsequence"
-description: "Find length of longest increasing subsequence"
+description: "Find the length of the longest increasing subsequence in an array using dynamic programming."
 topic: "arrays"
 parameters:
   - name: "arr"

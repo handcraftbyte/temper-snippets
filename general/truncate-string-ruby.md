@@ -1,6 +1,6 @@
 ---
 title: "Truncate String"
-description: "Truncate a string to a specified length with ellipsis"
+description: "Truncate a string to a specified length with ellipsis."
 topic: "strings"
 relatedSlugs:
   - "truncate-string-javascript"

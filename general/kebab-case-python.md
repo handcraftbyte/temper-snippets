@@ -1,6 +1,6 @@
 ---
 title: "Convert to kebab-case"
-description: "Convert a string to kebab-case"
+description: "Convert a string to kebab-case."
 topic: "strings"
 relatedSlugs:
   - "kebab-case-javascript"

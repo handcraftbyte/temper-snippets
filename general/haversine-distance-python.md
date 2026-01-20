@@ -1,6 +1,6 @@
 ---
 title: "Haversine Distance"
-description: "Calculate distance between two GPS coordinates"
+description: "Calculate distance between two GPS coordinates."
 topic: "math"
 parameters:
   - name: "lat1"

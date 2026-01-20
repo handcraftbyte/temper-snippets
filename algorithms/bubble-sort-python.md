@@ -1,6 +1,6 @@
 ---
 title: "Bubble Sort"
-description: "Sort array using bubble sort algorithm"
+description: "Sort an array using the bubble sort algorithm by repeatedly swapping adjacent elements."
 topic: "sorting"
 parameters:
   - name: "arr"

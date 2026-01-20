@@ -1,12 +1,12 @@
 ---
 title: "Camel Case to Words"
-description: "Convert camelCase string to separate words"
+description: "Convert a camelCase string to separate words by inserting spaces before capitals."
 topic: "converters"
 parameters:
   - name: "str"
     type: "string"
     default: "helloWorldExample"
-    description: "camelCase string to convert"
+    description: "camelCase string to convert."
 exampleOutputs:
   - input: { "str": "helloWorldExample" }
     output: "hello World Example"

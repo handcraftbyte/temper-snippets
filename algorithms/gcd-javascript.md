@@ -1,6 +1,6 @@
 ---
 title: "Greatest Common Divisor"
-description: "Find the greatest common divisor (GCD) of two numbers"
+description: "Find the greatest common divisor (GCD) of two numbers using the Euclidean algorithm."
 topic: "math"
 parameters:
   - name: "a"

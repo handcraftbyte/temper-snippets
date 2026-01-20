@@ -1,6 +1,6 @@
 ---
 title: "Find Longest Word"
-description: "Find the longest word in a string"
+description: "Find the longest word in a string."
 topic: "strings"
 parameters:
   - name: "str"

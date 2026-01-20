@@ -1,6 +1,6 @@
 ---
 title: "Pad String Start"
-description: "Pad a string from the start to reach a target length"
+description: "Pad a string from the start with a specified character to reach a target length."
 topic: "strings"
 relatedSlugs:
   - "pad-start-javascript"

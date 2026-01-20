@@ -1,6 +1,6 @@
 ---
 title: "Object Map Values"
-description: "Apply a transformation to all object values"
+description: "Apply a transformation function to all object values while preserving keys."
 topic: "objects"
 parameters:
   - name: "obj"

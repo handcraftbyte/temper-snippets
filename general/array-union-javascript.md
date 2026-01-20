@@ -1,6 +1,6 @@
 ---
 title: "Array Union"
-description: "Combine two arrays and remove duplicates"
+description: "Combine two arrays and remove duplicates to produce a union."
 topic: "arrays"
 parameters:
   - name: "arr1"

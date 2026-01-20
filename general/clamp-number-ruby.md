@@ -1,6 +1,6 @@
 ---
 title: "Clamp Number"
-description: "Clamp a number between a minimum and maximum value"
+description: "Restrict a number to be within a minimum and maximum range."
 topic: "math"
 relatedSlugs:
   - "clamp-number-javascript"

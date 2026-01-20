@@ -1,6 +1,6 @@
 ---
 title: "Deep Clone Object"
-description: "Create a deep copy of an object (handles nested objects and arrays)"
+description: "Create a deep copy of an object (handles nested objects and arrays)."
 topic: "objects"
 parameters:
   - name: "obj"

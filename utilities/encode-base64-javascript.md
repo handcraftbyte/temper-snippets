@@ -1,6 +1,6 @@
 ---
 title: "Encode Base64"
-description: "Encode a string to Base64 format for safe transmission in URLs and APIs"
+description: "Encode a string to Base64 format for safe transmission in URLs and APIs."
 topic: "encoding"
 tags: ["base64", "encode", "encoding", "btoa"]
 relatedSlugs:
@@ -9,7 +9,7 @@ parameters:
   - name: "input"
     type: "string"
     default: "Hello World!"
-    description: "The string to encode to Base64"
+    description: "The string to encode to Base64."
 exampleOutputs:
   - input: { "input": "Hello World!" }
     output: "SGVsbG8gV29ybGQh"

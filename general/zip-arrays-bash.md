@@ -1,6 +1,6 @@
 ---
 title: "Zip Arrays"
-description: "Combine multiple arrays element-wise into pairs"
+description: "Combine multiple arrays element-wise into pairs."
 topic: "arrays"
 parameters:
   - name: "arr1"

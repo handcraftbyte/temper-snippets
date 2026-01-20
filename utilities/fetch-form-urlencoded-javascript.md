@@ -1,6 +1,6 @@
 ---
 title: "Send URL-Encoded Form"
-description: "Send form data as application/x-www-form-urlencoded"
+description: "Send form data as application/x-www-form-urlencoded using URLSearchParams."
 topic: "http"
 parameters: []
 exampleOutputs:

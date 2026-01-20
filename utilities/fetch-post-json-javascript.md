@@ -1,6 +1,6 @@
 ---
 title: "POST JSON Data"
-description: "Send JSON payload to an API endpoint"
+description: "Send a JSON payload to an API endpoint using POST."
 topic: "http"
 parameters: []
 exampleOutputs:

@@ -1,12 +1,12 @@
 ---
 title: "Format Phone Number"
-description: "Format a phone number string (US format)"
+description: "Format a phone number string in US format with parentheses and dashes."
 topic: "formatting"
 parameters:
   - name: "phone"
     type: "string"
     default: "1234567890"
-    description: "Phone number digits"
+    description: "Phone number digits."
 exampleOutputs:
   - input: { "phone": "1234567890" }
     output: "(123) 456-7890"

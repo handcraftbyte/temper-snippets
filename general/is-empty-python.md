@@ -1,6 +1,6 @@
 ---
 title: "Is Empty"
-description: "Check if a value is empty (null, empty string, list, or dict)"
+description: "Check if a value is empty (null, empty string, list, or dict)."
 topic: "validation"
 relatedSlugs:
   - "is-empty-javascript"

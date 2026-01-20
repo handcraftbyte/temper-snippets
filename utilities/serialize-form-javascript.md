@@ -1,12 +1,12 @@
 ---
 title: "Serialize Form Data"
-description: "Serialize form data to query string or object"
+description: "Serialize form data to a query string or JavaScript object for easy submission."
 topic: "browser"
 parameters:
   - name: "formId"
     type: "string"
     default: "myForm"
-    description: "Form element ID"
+    description: "Form element ID."
 exampleOutputs:
   - input: { "formId": "myForm" }
     output: "Form serialization function created"

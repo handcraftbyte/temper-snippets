@@ -1,6 +1,6 @@
 ---
 title: "Remove Accents"
-description: "Remove diacritical marks (accents) from a string"
+description: "Remove diacritical marks and accents from Unicode characters, converting them to their ASCII equivalents."
 topic: "strings"
 parameters:
   - name: "str"

@@ -1,6 +1,6 @@
 ---
 title: "Clear LocalStorage"
-description: "Clear all items from localStorage"
+description: "Clear all items from localStorage in the browser."
 topic: "browser"
 parameters: []
 exampleOutputs:

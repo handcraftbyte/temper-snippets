@@ -1,6 +1,6 @@
 ---
 title: "Capitalize First Letter"
-description: "Capitalize the first letter of a string while keeping the rest unchanged"
+description: "Capitalize the first letter of a string while keeping the rest unchanged."
 topic: "strings"
 relatedSlugs:
   - "capitalize-first-letter-javascript"

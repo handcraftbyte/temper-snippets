@@ -1,6 +1,6 @@
 ---
 title: "Round to Decimals"
-description: "Round a number to a specified number of decimal places"
+description: "Round a floating-point number to a specified number of decimal places for precision control."
 topic: "math"
 parameters:
   - name: "num"

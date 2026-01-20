@@ -1,6 +1,6 @@
 ---
 title: "Sort by Property"
-description: "Sort an array of objects by a specific property"
+description: "Sort an array of objects by a specific property."
 topic: "arrays"
 parameters:
   - name: "arr"

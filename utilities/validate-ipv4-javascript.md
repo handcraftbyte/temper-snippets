@@ -1,12 +1,12 @@
 ---
 title: "Validate IPv4"
-description: "Check if a string is a valid IPv4 address"
+description: "Check if a string is a valid IPv4 address."
 topic: "validation"
 parameters:
   - name: "ip"
     type: "string"
     default: "192.168.1.1"
-    description: "IP address to validate"
+    description: "IP address to validate."
 exampleOutputs:
   - input: { "ip": "192.168.1.1" }
     output: "true"

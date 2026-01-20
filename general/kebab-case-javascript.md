@@ -1,6 +1,6 @@
 ---
 title: "Convert to Kebab Case"
-description: "Convert a string to kebab-case format"
+description: "Convert a string to kebab-case format."
 topic: "strings"
 parameters:
   - name: "str"

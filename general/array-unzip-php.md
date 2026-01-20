@@ -1,6 +1,6 @@
 ---
 title: "Unzip Arrays"
-description: "Separate zipped arrays back into individual arrays"
+description: "Separate zipped arrays back into individual arrays (inverse of zip)."
 topic: "arrays"
 parameters:
   - name: "zipped"

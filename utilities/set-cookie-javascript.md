@@ -1,20 +1,20 @@
 ---
 title: "Set Cookie"
-description: "Set a browser cookie with optional expiration"
+description: "Set a browser cookie with optional expiration date."
 topic: "browser"
 parameters:
   - name: "name"
     type: "string"
     default: "myCookie"
-    description: "Cookie name"
+    description: "Cookie name."
   - name: "value"
     type: "string"
     default: "myValue"
-    description: "Cookie value"
+    description: "Cookie value."
   - name: "days"
     type: "number"
     default: 7
-    description: "Days until expiration"
+    description: "Days until expiration."
 exampleOutputs:
   - input: { "name": "myCookie", "value": "myValue", "days": 7 }
     output: "Cookie set"

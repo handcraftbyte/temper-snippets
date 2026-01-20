@@ -1,6 +1,6 @@
 ---
 title: "Throttle"
-description: "Create a throttled function that limits execution rate"
+description: "Create a throttled function that limits the execution rate to at most once per specified time interval."
 topic: "async"
 exampleOutputs:
   - input: {}

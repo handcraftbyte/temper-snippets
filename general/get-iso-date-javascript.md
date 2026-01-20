@@ -1,6 +1,6 @@
 ---
 title: "Get Current ISO Date"
-description: "Get the current date in ISO 8601 format"
+description: "Get the current date in ISO 8601 format."
 topic: "dates"
 parameters: []
 exampleOutputs:

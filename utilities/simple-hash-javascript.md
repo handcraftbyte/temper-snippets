@@ -1,12 +1,12 @@
 ---
 title: "Simple String Hash"
-description: "Simple hash function for strings"
+description: "Generate a simple numeric hash from a string."
 topic: "security"
 parameters:
   - name: "str"
     type: "string"
     default: "Hello"
-    description: "String to hash"
+    description: "String to hash."
 exampleOutputs:
   - input: { "str": "Hello" }
     output: "69609650"

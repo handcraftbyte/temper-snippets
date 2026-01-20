@@ -1,6 +1,6 @@
 ---
 title: "Get Last Array Element"
-description: "Get the last element of an array"
+description: "Get the last element of an array."
 topic: "arrays"
 parameters:
   - name: "arr"
